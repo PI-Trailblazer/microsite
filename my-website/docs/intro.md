@@ -80,6 +80,6 @@ Trailblazer is a groundbreaking initiative aimed at revitalizing the tourism ind
 
 ## Advisors
 
-- **Professor** [Dr. Osvaldo Pacheco](https://www.ua.pt/pt/p/10313442)
-- **Professor** [Dr. Rui Costa](https://www.ua.pt/pt/degeit/rui_augusto_da_costa)
+- **Teacher** [Dr. Osvaldo Pacheco](https://www.ua.pt/pt/p/10313442)
+- **Teacher** [Dr. Rui Costa](https://www.ua.pt/pt/degeit/rui_augusto_da_costa)hed changes
 - **Dr.** [Daniel Ferreira](https://www.ua.pt/pt/p/80653922)
