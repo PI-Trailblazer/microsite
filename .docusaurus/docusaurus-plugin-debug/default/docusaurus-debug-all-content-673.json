@@ -1,0 +1,229 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/andreoliveira/Documents/GitHub/microsite/sidebars.js",
+          "contentPath": "/Users/andreoliveira/Documents/GitHub/microsite/docs",
+          "contentPathLocalized": "/Users/andreoliveira/Documents/GitHub/microsite/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "architecture",
+              "title": "Architecture",
+              "description": "",
+              "source": "@site/docs/architecture.md",
+              "sourceDirName": ".",
+              "slug": "/architecture",
+              "permalink": "/docs/architecture",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "documentationSidebar",
+              "previous": {
+                "title": "Scheduling",
+                "permalink": "/docs/scheduling"
+              },
+              "next": {
+                "title": "User Stories",
+                "permalink": "/docs/userStories"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Project Description",
+              "description": "Brief Overview of the Project",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "documentationSidebar",
+              "next": {
+                "title": "Scheduling",
+                "permalink": "/docs/scheduling"
+              }
+            },
+            {
+              "id": "scheduling",
+              "title": "Scheduling",
+              "description": "Milestone",
+              "source": "@site/docs/scheduling.md",
+              "sourceDirName": ".",
+              "slug": "/scheduling",
+              "permalink": "/docs/scheduling",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "documentationSidebar",
+              "previous": {
+                "title": "Project Description",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Architecture",
+                "permalink": "/docs/architecture"
+              }
+            },
+            {
+              "id": "userStories",
+              "title": "User Stories",
+              "description": "",
+              "source": "@site/docs/userStories.md",
+              "sourceDirName": ".",
+              "slug": "/userStories",
+              "permalink": "/docs/userStories",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "documentationSidebar",
+              "previous": {
+                "title": "Architecture",
+                "permalink": "/docs/architecture"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "scheduling"
+              },
+              {
+                "type": "doc",
+                "id": "architecture"
+              },
+              {
+                "type": "doc",
+                "id": "userStories"
+              }
+            ],
+            "documentationSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "scheduling"
+              },
+              {
+                "type": "doc",
+                "id": "architecture"
+              },
+              {
+                "type": "doc",
+                "id": "userStories"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "/intro",
+          "metadata": {
+            "permalink": "/blog/intro",
+            "source": "@site/blog/intro.md",
+            "title": "Sprints",
+            "description": "",
+            "date": "2024-02-23T17:04:40.421Z",
+            "formattedDate": "February 23, 2024",
+            "tags": [],
+            "readingTime": 0,
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {
+              "sidebar_position": 1
+            },
+            "unlisted": false
+          },
+          "content": ""
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "/intro"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

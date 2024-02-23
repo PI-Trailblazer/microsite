@@ -1,0 +1,10 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Sprints",
+      "permalink": "/blog/intro",
+      "unlisted": false
+    }
+  ]
+}

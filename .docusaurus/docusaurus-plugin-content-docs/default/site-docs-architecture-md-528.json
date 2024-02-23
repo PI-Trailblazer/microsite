@@ -1,0 +1,26 @@
+{
+  "id": "architecture",
+  "title": "Architecture",
+  "description": "",
+  "source": "@site/docs/architecture.md",
+  "sourceDirName": ".",
+  "slug": "/architecture",
+  "permalink": "/docs/architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Scheduling",
+    "permalink": "/docs/scheduling"
+  },
+  "next": {
+    "title": "User Stories",
+    "permalink": "/docs/userStories"
+  }
+}
