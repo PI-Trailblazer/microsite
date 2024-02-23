@@ -78,8 +78,8 @@ Trailblazer is a groundbreaking initiative aimed at revitalizing the tourism ind
   </tr>
 </table>
 
-## Orienters
+## Advisors
 
-- **Professor** [Osvaldo Pacheco](https://www.ua.pt/pt/p/10313442)
-- **Professor** [João Rafael Almeida](https://www.ua.pt/pt/p/80334491)
+- **Professor** [Dr. Osvaldo Pacheco](https://www.ua.pt/pt/p/10313442)
+- **Professor** [Dr. Rui Costa](https://www.ua.pt/pt/degeit/rui_augusto_da_costa)
 - **Dr.** [Daniel Ferreira](https://www.ua.pt/pt/p/80653922)

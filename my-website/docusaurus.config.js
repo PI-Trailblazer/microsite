@@ -139,7 +139,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} Trailblazer, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Trailblazer, Projeto informática`,
       },
       prism: {
         theme: prismThemes.github,
