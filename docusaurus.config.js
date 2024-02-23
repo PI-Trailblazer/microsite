@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Trailblazer",
-  tagline: "A place where every travel begins",
+  tagline: "Blaze New Trails, Forge New Tales",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -61,7 +61,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/card.jpg",
       navbar: {
         title: "Trailblazer",
         logo: {
