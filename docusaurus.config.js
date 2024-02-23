@@ -21,7 +21,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "PI-Trailblazer", // Usually your GitHub org/user name.
-  projectName: "Trailblazer", // Usually your repo name.
+  projectName: "microsite", // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
