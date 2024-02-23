@@ -6,25 +6,27 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-color-primary: #FF9843; /* Nova cor primária */
+  --ifm-color-primary-dark: #E57C2B; /* Mais escuro que a cor primária, para contraste */
+  --ifm-color-primary-darker: #CC6A1E; /* Ainda mais escuro, para detalhes ou ênfase */
+  --ifm-color-primary-darkest: #B35812; /* O tom mais escuro, para forte contraste */
+  --ifm-color-primary-light: #FFA85C; /* Mais claro que a cor primária, para fundos suaves */
+  --ifm-color-primary-lighter: #FFB76F; /* Ainda mais claro, para realces ou áreas de foco suave */
+  --ifm-color-primary-lightest: #FFC785; /* O tom mais claro, para fundos muito suaves ou realces discretos */
+  --ifm-code-font-size: 95%; /* Mantendo inalterado */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1); /* Mantendo inalterado */
 }
+
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #FF9843; /* Adotando a nova cor primária também para o modo escuro */
+  --ifm-color-primary-dark: #E57C2B; /* Escuro para contraste */
+  --ifm-color-primary-darker: #CC6A1E; /* Ainda mais escuro para detalhes ou ênfase */
+  --ifm-color-primary-darkest: #B35812; /* O mais escuro para forte contraste */
+  --ifm-color-primary-light: #FFA85C; /* Mais claro que a primária, adaptado ao modo escuro */
+  --ifm-color-primary-lighter: #FFB76F; /* Ainda mais claro, suave */
+  --ifm-color-primary-lightest: #FFC785; /* O mais claro, para realces discretos */
+  --docusaurus-highlighted-code-line-bg: rgba(255, 152, 67, 0.2); /* Adaptação para oferecer contraste sutil no modo escuro */
 }
+
