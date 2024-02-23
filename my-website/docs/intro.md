@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Trailbazer
+# Project Description
 
 ## Brief Overview of the Project
 
@@ -22,8 +22,6 @@ Trailblazer is a groundbreaking initiative aimed at revitalizing the tourism ind
 
 ![Trailblazer Schema](../static/img/trailblazer_schema.png)
 
-**Jira Board**: [Trailblazer Jira Board](https://trailblazer-pi.atlassian.net/jira/software/projects/TRAIL/boards/1)
-**GitHub Organization**: [Trailblazer GitHub Organization](https://github.com/PI-Trailblazer)
 **Website**: [Trailblazer Website](To be added)
 
 ## Our Team
@@ -82,6 +80,6 @@ Trailblazer is a groundbreaking initiative aimed at revitalizing the tourism ind
 
 ## Orienters
 
-  - **Professor**  [Osvaldo Pacheco](https://www.ua.pt/pt/p/10313442)
-  - **Professor**  [João Rafael Almeida](https://www.ua.pt/pt/p/80334491)
-  - **Dr.** [Daniel Ferreira](https://www.ua.pt/pt/p/80653922)
+- **Professor** [Osvaldo Pacheco](https://www.ua.pt/pt/p/10313442)
+- **Professor** [João Rafael Almeida](https://www.ua.pt/pt/p/80334491)
+- **Dr.** [Daniel Ferreira](https://www.ua.pt/pt/p/80653922)
