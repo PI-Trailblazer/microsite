@@ -39,42 +39,42 @@ Trailblazer is a groundbreaking initiative aimed at revitalizing the tourism ind
     <td>Alexandre Cotorobai</td>
     <td><a href="mailto:alexandrecotorobai@ua.pt">alexandrecotorobai@ua.pt</a></td>
     <td><a href="https://github.com/AlexandreCotorobai">AlexandreCotorobai</a></td>
-    <td>---</td>
+    <td>Database</td>
   </tr>
   <tr>
     <td>108215</td>
     <td>Hugo Correia</td>
     <td><a href="mailto:hf.correia@ua.pt">hf.correia@ua.pt</a></td>
     <td><a href="https://github.com/MrLoydHD">MrLoydHD</a></td>
-    <td>---</td>
+    <td>Frontend</td>
   </tr>
   <tr>
     <td>109089</td>
     <td>Joaquim Rosa</td>
     <td><a href="mailto:joaquimvr15@ua.pt">joaquimvr15@ua.pt</a></td>
     <td><a href="https://github.com/JakeRosa">JakeRosa</a></td>
-    <td>---</td>
+    <td>Database</td>
   </tr>
   <tr>
     <td>108073</td>
     <td>Bernardo Figueiredo</td>
     <td><a href="mailto:bernardo.figueiredo@ua.pt">bernardo.figueiredo@ua.pt</a></td>
     <td><a href="https://github.com/LeikRad">LeikRad</a></td>
-    <td>---</td>
+    <td>Frontend</td>
   </tr>
   <tr>
     <td>107359</td>
     <td>Duarte Cruz</td>
     <td><a href="mailto:duarteccruz@ua.pt">duarteccruz@ua.pt</a></td>
     <td><a href="https://github.com/DuarteCruz31">DuarteCruz31</a></td>
-    <td>---</td>
+    <td>Backend</td>
   </tr>
     <tr>
     <td>107637</td>
     <td>André Oliveira</td>
     <td><a href="mailto:andreaoliveira@ua.pt">andreaoliveira@ua.pt</a></td>
     <td><a href="https://github.com/andreaoliveira9">Andreaoliveira9</a></td>
-    <td>---</td>
+    <td>Backend</td>
   </tr>
 </table>
 
