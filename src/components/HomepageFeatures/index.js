@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Predictive Analytics",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/image2.svg").default,
     description: (
       <>
         Trailblazer empowers DMOs with advanced predictive analytics, allowing
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: "Personalized Travel Experiences",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/image2.svg").default,
     description: (
       <>
         The system analyzes tourists' feedback to enhance service quality and
@@ -28,7 +28,7 @@ const FeatureList = [
   },
   {
     title: "Sustainable Tourism Development",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/image3.svg").default,
     description: (
       <>
         DMOs are equipped with sophisticated analytical tools for sustainable
