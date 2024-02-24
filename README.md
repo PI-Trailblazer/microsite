@@ -4,14 +4,14 @@ Microsite for Trailblazer Platform
 
 ### Installation
 
-```
-$ npm install
+```bash
+npm install
 ```
 
 ### Local Development
 
-```
-$ npx docusaurus start
+```bash
+npx docusaurus start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
