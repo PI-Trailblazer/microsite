@@ -1,7 +1,7 @@
 import clsx from "clsx";
 import Heading from "@theme/Heading";
 import styles from "./styles.module.css";
-import image1 from "@site/static/img/image2.png";
+import image1 from "@site/static/img/image1.png";
 import image2 from "@site/static/img/image2.png";
 import image3 from "@site/static/img/image3.png";
 
