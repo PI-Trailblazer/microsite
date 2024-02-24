@@ -1,11 +1,14 @@
 import clsx from "clsx";
 import Heading from "@theme/Heading";
 import styles from "./styles.module.css";
+import image1 from "@site/static/img/image2.png";
+import image2 from "@site/static/img/image2.png";
+import image3 from "@site/static/img/image3.png";
 
 const FeatureList = [
   {
     title: "Predictive Analytics",
-    Svg: require("@site/static/img/image2.svg").default,
+    ImgSrc: image1,
     description: (
       <>
         Trailblazer empowers DMOs with advanced predictive analytics, allowing
@@ -16,7 +19,7 @@ const FeatureList = [
   },
   {
     title: "Personalized Travel Experiences",
-    Svg: require("@site/static/img/image2.svg").default,
+    ImgSrc: image2,
     description: (
       <>
         The system analyzes tourists' feedback to enhance service quality and
@@ -28,7 +31,7 @@ const FeatureList = [
   },
   {
     title: "Sustainable Tourism Development",
-    Svg: require("@site/static/img/image3.svg").default,
+    ImgSrc: image3,
     description: (
       <>
         DMOs are equipped with sophisticated analytical tools for sustainable
@@ -39,11 +42,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ ImgSrc, title, description }) {
   return (
     <div className={clsx("col col--4")}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={ImgSrc} alt={title} style={{ width: "250px" }} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
