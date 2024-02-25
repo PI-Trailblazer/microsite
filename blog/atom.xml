@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://pi-trailblazer.github.io/blog</id>
+    <id>https://pi-trailblazer.github.io/microsite/blog</id>
     <title>Trailblazer Blog</title>
     <updated>2024-02-23T15:22:04.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://pi-trailblazer.github.io/blog"/>
+    <link rel="alternate" href="https://pi-trailblazer.github.io/microsite/blog"/>
     <subtitle>Trailblazer Blog</subtitle>
-    <icon>https://pi-trailblazer.github.io/img/favicon.ico</icon>
+    <icon>https://pi-trailblazer.github.io/microsite/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Sprints]]></title>
-        <id>https://pi-trailblazer.github.io/blog/intro</id>
-        <link href="https://pi-trailblazer.github.io/blog/intro"/>
+        <id>https://pi-trailblazer.github.io/microsite/blog/intro</id>
+        <link href="https://pi-trailblazer.github.io/microsite/blog/intro"/>
         <updated>2024-02-23T15:22:04.000Z</updated>
     </entry>
 </feed>

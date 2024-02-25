@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Trailblazer Blog</title>
-        <link>https://pi-trailblazer.github.io/blog</link>
+        <link>https://pi-trailblazer.github.io/microsite/blog</link>
         <description>Trailblazer Blog</description>
         <lastBuildDate>Fri, 23 Feb 2024 15:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Sprints]]></title>
-            <link>https://pi-trailblazer.github.io/blog/intro</link>
-            <guid>https://pi-trailblazer.github.io/blog/intro</guid>
+            <link>https://pi-trailblazer.github.io/microsite/blog/intro</link>
+            <guid>https://pi-trailblazer.github.io/microsite/blog/intro</guid>
             <pubDate>Fri, 23 Feb 2024 15:22:04 GMT</pubDate>
         </item>
     </channel>
