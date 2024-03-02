@@ -16,7 +16,7 @@ Trailblazer is a groundbreaking initiative aimed at revitalizing the tourism ind
 - **Sustainable Tourism Development**: Equips DMOs with sophisticated analytical tools for sustainable tourism development.
 - **Curated Activities**: Foster a seamless exploration of new experiences while enabling providers to effectively showcase their offerings.
 - **Market Insights**: Provides attraction providers with valuable market insights.
-- **Service Quality Enhancement**: Enhance service quality and personalizing travel experiences.
+- **Auto-Tagging**: Automatically tag reviews and events to improve the recommendation engine and sentiment analysis.
 
 ### Project Schema
 
