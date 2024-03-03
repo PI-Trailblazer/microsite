@@ -30,25 +30,25 @@ In order to complete the second milestone of our project, it is expectable to co
 - State of the Art
 - Update all the documentation
 
-| Expected | Quantity |
-|----------|----------|
-| Tasks | 9 |
-| Epics | 1 |
-| Story Points | 45 |
+| Expected     | Quantity |
+| ------------ | -------- |
+| Tasks        | 9        |
+| Epics        | 1        |
+| Story Points | 45       |
 
 ## Sprint Backlog
 
-| Task (Trail-*) | Description | Developer | State | Story Points |
-|------|-------------|-----------|-------|---------------|
-| Trail-2 | State of the Art | Joaquim Rosa | In progress | 5 |
-| Trail-3 | Functional Requirements | Duarte Cruz | Done | 5 |
-| Trail-4 | Actors and Use Cases | Bernardo Figueiredo | In progress | 5 |
-| Trail-5 | Architecture | André Oliveira | In progress | 5 |
-| Trail-6 | Non-functional Requirements | Duarte Cruz | Done | 5 |
-| Trail-7 | Data Domain Model | Alexandre Cotorobai | In progress| 5 |
-| Trail-8 | UI Mockups | Bernardo Figueiredo, Hugo Correia, Duarte Cruz | In progress | 5 |
-| Trail-9 | Technologies | All | In progress | 5 |
-| Trail-11 | Update Documentation | Hugo Correi | In progress | 5 |
+| Task (Trail-\*) | Description                 | Developer                                      | State       | Story Points |
+| --------------- | --------------------------- | ---------------------------------------------- | ----------- | ------------ |
+| Trail-2         | State of the Art            | Joaquim Rosa                                   | In progress | 5            |
+| Trail-3         | Functional Requirements     | Duarte Cruz                                    | Done        | 5            |
+| Trail-4         | Actors and Use Cases        | Bernardo Figueiredo                            | In progress | 5            |
+| Trail-5         | Architecture                | André Oliveira                                 | In progress | 5            |
+| Trail-6         | Non-functional Requirements | Duarte Cruz                                    | Done        | 5            |
+| Trail-7         | Data Domain Model           | Alexandre Cotorobai                            | In progress | 5            |
+| Trail-8         | UI Mockups                  | Bernardo Figueiredo, Hugo Correia, Duarte Cruz | In progress | 5            |
+| Trail-9         | Technologies                | All                                            | In progress | 5            |
+| Trail-11        | Update Documentation        | Hugo Correia                                   | In progress | 5            |
 
 ## Sprint Review
 
