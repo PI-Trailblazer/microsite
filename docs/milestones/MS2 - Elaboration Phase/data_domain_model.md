@@ -8,7 +8,7 @@ sidebar_position: 7
 
 In order to store our data, we will utilize two databases, as described in the following:
 
-![Data Domain Model](../../../static/img/data_domain.png)
+![Data Domain Model](../../../static/img/data_domain_model.png)
 
 **User attributes:**  ID, name, phone number, email address, and hashed password. (verify??)
 
