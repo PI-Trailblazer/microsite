@@ -14,7 +14,7 @@ The Elaboration phase is the second phase of the Unified Process. It is the phas
 - [State of the Art](./sotA)
 - [Functional Requirements](./functional_requirements)
 - [Non Functional Requirements](./non_functional_requirements)
-- [Use Case Model and Actors](./use_case_model)
+- [Use Case Model and Actors](./use_cases)
 - [Architecture](./architecture)
 - [Data Domain Model](./data_domain_model)
 - [Mockups and Static Prototyping](./mockups)
