@@ -8,19 +8,21 @@ sidebar_position: 1
 
 Trailblazer is a groundbreaking initiative aimed at revitalizing the tourism industry through the integration of Machine Learning (ML) and Natural Language Processing (NLP) technologies. By developing an advanced Destination Management System (DMS), Trailblazer seeks to empower Destination Management Organizations (DMOs) with predictive analytics to foresee trends and make informed decisions in infrastructure, marketing, and sustainability practices. The system analyzes tourists' feedback across various platforms to derive insights into preferences and sentiments, enhancing service quality and personalizing travel experiences. At its core, Trailblazer features a personalized recommendation engine that curates activities tailored to individual interests, fostering a seamless exploration of new experiences while enabling providers to effectively showcase their offerings. This multifaceted approach benefits tourists with customized travel suggestions, provides attraction providers with valuable market insights, and equips DMOs with sophisticated analytical tools for sustainable tourism development.
 
+- **Complete Overview**: [Trailblazer -  An ML Augmented DMS](../../../static/pdfs/04%20Trailblazer%20-%20%20An%20ML%20Augmented%20DMS.pdf)
+
 ### Key Features
 
 - **Personalized Recommendations**: Tailored travel suggestions based on individual preferences and interests.
 - **Sentiment Analysis**: Derive insights from tourists' feedback to enhance service quality and personalizing travel experiences.
 - **Predictive Analytics**: Empower Destination Management Organizations (DMOs) with predictive analytics to foresee trends and make informed decisions in infrastructure, marketing, and sustainability practices.
-- **Sustainable Tourism Development**: Equips DMOs with sophisticated analytical tools for sustainable tourism development.
 - **Curated Activities**: Foster a seamless exploration of new experiences while enabling providers to effectively showcase their offerings.
 - **Market Insights**: Provides attraction providers with valuable market insights.
-- **Service Quality Enhancement**: Enhance service quality and personalizing travel experiences.
+- **Auto-Tagging**: Automatically tag reviews and events to improve the recommendation engine and sentiment analysis.
+- **Automation**: Optimize workflows using automated tagging and sentiment analysis, reducing manual tasks to improve service quality and efficiency in the tourism sector.
 
 ### Project Schema
 
-![Trailblazer Schema](../static/img/trailblazer_schema.png)
+![Trailblazer Schema](../../../static/img/trailblazer_schema.png)
 
 **Website**: [Trailblazer Website](To be added)
 

@@ -47,6 +47,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarCount: "ALL",
+          blogSidebarTitle: "Sprints",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
@@ -77,19 +79,22 @@ const config = {
           },
           { to: "/blog", label: "Sprints", position: "left" },
           {
-            href: "https://github.com/PI-Trailblazer",
+            to: "https://github.com/PI-Trailblazer",
             label: "GitHub",
             position: "right",
+            className: "github-link",
           },
           {
-            href: "https://trailblazer-pi.atlassian.net/jira/software/projects/TRAIL/boards/1",
+            to: "https://trailblazer-pi.atlassian.net/jira/software/projects/TRAIL/boards/1",
             label: "Jira",
             position: "right",
+            className: "jira-link",
           },
           {
-            href: "https://uapt33090-my.sharepoint.com/:f:/g/personal/bernardo_figueiredo_ua_pt/EvzubWWV1gJLl4sr07bo-jMBhzSnYWmK63SJfFBWmA_Iuw?e=jdymN6",
+            to: "https://uapt33090-my.sharepoint.com/:f:/g/personal/bernardo_figueiredo_ua_pt/EvzubWWV1gJLl4sr07bo-jMBhzSnYWmK63SJfFBWmA_Iuw?e=jdymN6",
             label: "Drive",
             position: "right",
+            className: "drive-link",
           },
         ],
       },
