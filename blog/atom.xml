@@ -2,15 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pi-trailblazer.github.io/microsite/blog</id>
     <title>Trailblazer Blog</title>
-    <updated>2024-02-23T15:22:04.000Z</updated>
+    <updated>2024-03-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pi-trailblazer.github.io/microsite/blog"/>
     <subtitle>Trailblazer Blog</subtitle>
     <icon>https://pi-trailblazer.github.io/microsite/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Sprints]]></title>
-        <id>https://pi-trailblazer.github.io/microsite/blog/intro</id>
-        <link href="https://pi-trailblazer.github.io/microsite/blog/intro"/>
-        <updated>2024-02-23T15:22:04.000Z</updated>
+        <title type="html"><![CDATA[Sprint 1]]></title>
+        <id>https://pi-trailblazer.github.io/microsite/blog/Sprint 1</id>
+        <link href="https://pi-trailblazer.github.io/microsite/blog/Sprint 1"/>
+        <updated>2024-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From: 2024-03-02]]></summary>
+        <content type="html"><![CDATA[<p><strong>From</strong>: 2024-03-02</p>
+<p><strong>To</strong>: 2024-03-05</p>
+<p><strong>Scrum Master</strong>: Hugo Correia</p>
+<p><strong>Product Owner</strong>: Duarte Cruz</p>
+<p><strong>Developers</strong>: Alexandre Cotorobai, Bernardo Figueiredo, Joaquim Rosa, André Oliveira</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-planning">Sprint Planning<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%201#sprint-planning" class="hash-link" aria-label="Direct link to Sprint Planning" title="Direct link to Sprint Planning">​</a></h2>
+<p>In order to complete the second milestone of our project, it is expectable to conclude the following sprints goals:</p>
+<ul>
+<li>Functional requirements</li>
+<li>Non-functional requirements</li>
+<li>Actors and Use Cases</li>
+<li>Data Domain Model</li>
+<li>UI Mockups</li>
+<li>Architecture and Design</li>
+<li>Technology Stack</li>
+<li>State of the Art</li>
+<li>Update all the documentation</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>9</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>45</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%201#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Task (Trail-*)</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>Trail-2</td><td>State of the Art</td><td>Joaquim Rosa</td><td>Done</td><td>5</td></tr><tr><td>Trail-3</td><td>Functional Requirements</td><td>Duarte Cruz</td><td>Done</td><td>5</td></tr><tr><td>Trail-4</td><td>Actors and Use Cases</td><td>Bernardo Figueiredo</td><td>Done</td><td>5</td></tr><tr><td>Trail-5</td><td>Architecture</td><td>André Oliveira</td><td>Done</td><td>5</td></tr><tr><td>Trail-6</td><td>Non-functional Requirements</td><td>Duarte Cruz</td><td>Done</td><td>5</td></tr><tr><td>Trail-7</td><td>Data Domain Model</td><td>Alexandre Cotorobai</td><td>Done</td><td>5</td></tr><tr><td>Trail-8</td><td>UI Mockups</td><td>Bernardo Figueiredo, Hugo Correia, Duarte Cruz</td><td>In progress</td><td>5</td></tr><tr><td>Trail-9</td><td>Technologies</td><td>All</td><td>Done</td><td>5</td></tr><tr><td>Trail-11</td><td>Update Documentation</td><td>Hugo Correia</td><td>In progress</td><td>5</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%201#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-2: State of the Art</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-3: Functional Requirements</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-4: Actors and Use Cases</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-5: Architecture</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-6: Non-functional Requirements</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-7: Data Domain Model</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-9: Technologies</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Trail-8: UI Mockups</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Trail-11: Update Documentation</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%201#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>7</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>35</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%201#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>This sprint saw substantial completion of tasks, but UI Mockups and documentation updates were not finished due to time constraints as other tasks took longer than expected. The team will look at ways to better estimate the time required for complex tasks and adjust the sprint planning accordingly to ensure all tasks can be completed within the given timeframe. Going forward, this understanding will inform better allocation of efforts across tasks.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burndown-chart">Sprint Burndown Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%201#sprint-burndown-chart" class="hash-link" aria-label="Direct link to Sprint Burndown Chart" title="Direct link to Sprint Burndown Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://pi-trailblazer.github.io/microsite/assets/images/burndown_chart_sprint_1-6db673a499f812bcc8f7eec61b627f57.png" width="1663" height="628" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Hugo Correia</name>
+            <uri>https://github.com/MrLoydHD</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Team]]></title>
+        <id>https://pi-trailblazer.github.io/microsite/blog/team_presentation</id>
+        <link href="https://pi-trailblazer.github.io/microsite/blog/team_presentation"/>
+        <updated>2024-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+        <content type="html"><![CDATA[<hr>
+<p>During the development of our application we spread the work to be done by sprints. Each sprint had a duration of 1/2 weeks (except the first one) and at the end of each sprint we had a meeting to discuss the work done and the work to be done in the next sprint.</p>
+<p>The distribution made is listed below:</p>
+<table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead><tbody><tr><td>1</td><td>Hugo</td><td>Duarte</td><td>Alexandre, Bernardo, Joaquim, Andre</td></tr></tbody></table>]]></content>
+        <author>
+            <name>Hugo Correia</name>
+            <uri>https://github.com/MrLoydHD</uri>
+        </author>
+        <author>
+            <name>Joaquim Rosa</name>
+            <uri>https://github.com/JakeRosa</uri>
+        </author>
+        <author>
+            <name>Alexandre Cotorobai</name>
+            <uri>https://github.com/AlexandreCotorobai</uri>
+        </author>
+        <author>
+            <name>Bernardo Figueiredo</name>
+            <uri>https://github.com/LeikRad</uri>
+        </author>
+        <author>
+            <name>Duarte Cruz</name>
+            <uri>https://github.com/DuarteCruz31</uri>
+        </author>
+        <author>
+            <name>André Oliveira</name>
+            <uri>https://github.com/andreaoliveira9</uri>
+        </author>
     </entry>
 </feed>
