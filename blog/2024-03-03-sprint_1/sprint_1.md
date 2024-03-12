@@ -74,6 +74,6 @@ In order to complete the second milestone of our project, it is expectable to co
 
 This sprint saw substantial completion of tasks, but UI Mockups and documentation updates were not finished due to time constraints as other tasks took longer than expected. The team will look at ways to better estimate the time required for complex tasks and adjust the sprint planning accordingly to ensure all tasks can be completed within the given timeframe. Going forward, this understanding will inform better allocation of efforts across tasks.
 
-## Sprint Burndown Chart
+## Sprint Burnup Chart
 
-![Burndown Chart](../../static/img/burndown_chart_sprint_1.png) 
+![Burndown Chart](../../static/img/sprints/burndown_chart_sprint_1.png)
