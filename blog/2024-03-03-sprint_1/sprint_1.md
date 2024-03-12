@@ -38,17 +38,17 @@ In order to complete the second milestone of our project, it is expectable to co
 
 ## Sprint Backlog
 
-| Task (Trail-\*) | Description                 | Developer                                      | State       | Story Points |
-| --------------- | --------------------------- | ---------------------------------------------- | ----------- | ------------ |
-| Trail-2         | State of the Art            | Joaquim Rosa                                   | Done        | 5            |
-| Trail-3         | Functional Requirements     | Duarte Cruz                                    | Done        | 5            |
-| Trail-4         | Actors and Use Cases        | Bernardo Figueiredo                            | Done        | 5            |
-| Trail-5         | Architecture                | André Oliveira                                 | Done        | 5            |
-| Trail-6         | Non-functional Requirements | Duarte Cruz                                    | Done        | 5            |
-| Trail-7         | Data Domain Model           | Alexandre Cotorobai                            | Done        | 5            |
-| Trail-8         | UI Mockups                  | Bernardo Figueiredo, Hugo Correia, Duarte Cruz | In progress | 5            |
-| Trail-9         | Technologies                | All                                            | Done        | 5            |
-| Trail-11        | Update Documentation        | Hugo Correia                                   | In progress | 5            |
+| Task (Trail-\*) | Description                 | Developer                                      | State | Story Points |
+| --------------- | --------------------------- | ---------------------------------------------- | ----- | ------------ |
+| Trail-2         | State of the Art            | Joaquim Rosa                                   | Done  | 5            |
+| Trail-3         | Functional Requirements     | Duarte Cruz                                    | Done  | 5            |
+| Trail-4         | Actors and Use Cases        | Bernardo Figueiredo                            | Done  | 5            |
+| Trail-5         | Architecture                | André Oliveira                                 | Done  | 5            |
+| Trail-6         | Non-functional Requirements | Duarte Cruz                                    | Done  | 5            |
+| Trail-7         | Data Domain Model           | Alexandre Cotorobai                            | Done  | 5            |
+| Trail-8         | UI Mockups                  | Bernardo Figueiredo, Hugo Correia, Duarte Cruz | Done  | 5            |
+| Trail-9         | Technologies                | All                                            | Done  | 5            |
+| Trail-11        | Update Documentation        | Hugo Correia                                   | Done  | 5            |
 
 ### Task Status (Completed/Not Completed)
 
@@ -64,7 +64,7 @@ In order to complete the second milestone of our project, it is expectable to co
 
 ## Sprint Review
 
-| Concluded     | Quantity |
+| Concluded    | Quantity |
 | ------------ | -------- |
 | Tasks        | 7        |
 | Epics        | 1        |
