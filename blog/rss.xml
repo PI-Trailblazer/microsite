@@ -4,10 +4,48 @@
         <title>Trailblazer Blog</title>
         <link>https://pi-trailblazer.github.io/microsite/blog</link>
         <description>Trailblazer Blog</description>
-        <lastBuildDate>Sun, 03 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Sprint 2]]></title>
+            <link>https://pi-trailblazer.github.io/microsite/blog/Sprint 2</link>
+            <guid>https://pi-trailblazer.github.io/microsite/blog/Sprint 2</guid>
+            <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[From: 2024-03-02]]></description>
+            <content:encoded><![CDATA[<p><strong>From</strong>: 2024-03-02</p>
+<p><strong>To</strong>: 2024-03-05</p>
+<p><strong>Scrum Master</strong>: André Oliveira</p>
+<p><strong>Product Owner</strong>: Alexandre Cotorobai</p>
+<p><strong>Developers</strong>: Joaquim Rosa, Duarte Cruz, Hugo Correia, Bernardo Figueiredo</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%202#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>In this sprint, we aimed to finish all the tags that were not possible to complete in the previous sprint and some that emerged at the last minute:</p>
+<ul>
+<li>UI Mockups</li>
+<li>Update all the documentation</li>
+<li>LateX Report Repo Creation</li>
+<li>Presentation Preparation</li>
+<li>Use Cases Preparation</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>5</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>21</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%202#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Task (Trail-*)</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>Trail-8</td><td>UI Mockups</td><td>Bernardo Figueiredo, Hugo Correia, Joaquim Rosa</td><td>Done</td><td>5</td></tr><tr><td>Trail-11</td><td>Update Documentation</td><td>Hugo Correia</td><td>Done</td><td>5</td></tr><tr><td>Trail-12</td><td>LateX Report Repo Creation</td><td>Bernardo Figueiredo</td><td>Done</td><td>3</td></tr><tr><td>Trail-13</td><td>Use Cases Preparation</td><td>Hugo Correia</td><td>Done</td><td>3</td></tr><tr><td>Trail-14</td><td>Presentation Preparation</td><td>All team</td><td>Done</td><td>5</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%202#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-8: UI Mockups</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-11: Update Documentation</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-12: LateX Report Repo Creation</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-13: Use Cases Preparation</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-14: Presentation Preparation</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%202#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>5</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>21</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-restrospective">Sprint Restrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%202#sprint-restrospective" class="hash-link" aria-label="Direct link to Sprint Restrospective" title="Direct link to Sprint Restrospective">​</a></h2>
+<p>In this sprint, we managed to complete all the tasks that were planned. The team worked well together and managed to finish the sprint goals on time. The presentation was prepared and the documentation was updated. The LateX report repository was created and the use cases were prepared. The UI mockups were also completed.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%202#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://pi-trailblazer.github.io/microsite/assets/images/burndown_chart_sprint_2-0e540018717bff4eb6a40a77a14804b1.png" width="1651" height="613" class="img_ev3q"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Sprint 1]]></title>
             <link>https://pi-trailblazer.github.io/microsite/blog/Sprint 1</link>
@@ -51,7 +89,7 @@
 <table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>7</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>35</td></tr></tbody></table>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%201#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
 <p>This sprint saw substantial completion of tasks, but UI Mockups and documentation updates were not finished due to time constraints as other tasks took longer than expected. The team will look at ways to better estimate the time required for complex tasks and adjust the sprint planning accordingly to ensure all tasks can be completed within the given timeframe. Going forward, this understanding will inform better allocation of efforts across tasks.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burndown-chart">Sprint Burndown Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%201#sprint-burndown-chart" class="hash-link" aria-label="Direct link to Sprint Burndown Chart" title="Direct link to Sprint Burndown Chart">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%201#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
 <p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://pi-trailblazer.github.io/microsite/assets/images/burndown_chart_sprint_1-6db673a499f812bcc8f7eec61b627f57.png" width="1663" height="628" class="img_ev3q"></p>]]></content:encoded>
         </item>
         <item>
@@ -63,7 +101,7 @@
             <content:encoded><![CDATA[<hr>
 <p>During the development of our application we spread the work to be done by sprints. Each sprint had a duration of 1/2 weeks (except the first one) and at the end of each sprint we had a meeting to discuss the work done and the work to be done in the next sprint.</p>
 <p>The distribution made is listed below:</p>
-<table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead><tbody><tr><td>1</td><td>Hugo</td><td>Duarte</td><td>Alexandre, Bernardo, Joaquim, Andre</td></tr></tbody></table>]]></content:encoded>
+<table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead><tbody><tr><td>1</td><td>Hugo</td><td>Duarte</td><td>Alexandre, Bernardo, Joaquim, Andre</td></tr><tr><td>2</td><td>Andre</td><td>Alexandre</td><td>Joaquim, Duarte, Hugo, Bernardo</td></tr></tbody></table>]]></content:encoded>
         </item>
     </channel>
 </rss>
