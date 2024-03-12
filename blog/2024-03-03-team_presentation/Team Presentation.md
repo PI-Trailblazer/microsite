@@ -12,3 +12,4 @@ The distribution made is listed below:
 | Sprint | Scrum Master     | Product Owner    | Developers                                        |
 |--------|------------------|------------------|---------------------------------------------------|
 | 1      | Hugo             | Duarte            | Alexandre, Bernardo, Joaquim, Andre                |
+| 2      | Andre            | Alexandre         | Joaquim, Duarte, Hugo, Bernardo                    |

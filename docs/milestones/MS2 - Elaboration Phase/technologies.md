@@ -6,6 +6,8 @@ sidebar_position: 9
 
 # Technologies Used (in Progress)
 
+![Tech Stack](../../../static/img/tech_stack.png)
+
 **Frontend:** ReactJS (To create a dynamic and engaging user interface, enhancing user experience with its component-based architecture and efficient rendering.)
 
 - **API:**  FastAPI (Ensure fast and smooth communication between frontend and backend, with its asynchronous capabilities and automatic documentation generation simplifying development and integration.)

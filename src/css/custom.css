@@ -30,6 +30,9 @@
   --docusaurus-highlighted-code-line-bg: rgba(255, 152, 67, 0.2); /* Adaptação para oferecer contraste sutil no modo escuro */
 }
 
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
 /* jira icon */
 
 html[data-theme='light'] .jira-link {
