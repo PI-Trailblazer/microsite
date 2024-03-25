@@ -2,19 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pi-trailblazer.github.io/microsite/blog</id>
     <title>Trailblazer Blog</title>
-    <updated>2024-03-05T00:00:00.000Z</updated>
+    <updated>2024-03-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pi-trailblazer.github.io/microsite/blog"/>
     <subtitle>Trailblazer Blog</subtitle>
     <icon>https://pi-trailblazer.github.io/microsite/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Sprint 3]]></title>
+        <id>https://pi-trailblazer.github.io/microsite/blog/Sprint 3</id>
+        <link href="https://pi-trailblazer.github.io/microsite/blog/Sprint 3"/>
+        <updated>2024-03-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From: 2024-03-12]]></summary>
+        <content type="html"><![CDATA[<p><strong>From</strong>: 2024-03-12</p>
+<p><strong>To</strong>: 2024-03-19</p>
+<p><strong>Scrum Master</strong>: Bernardo Figueiredo</p>
+<p><strong>Product Owner</strong>: Joaquim Rosa</p>
+<p><strong>Developers</strong>: Duarte Cruz, Hugo Correia, Alexandre Cotorobai, André Oliveira</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%203#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>In this sprint, we started coding implementation of our project, beginning with the implementation of user authentication and the user_microservice:</p>
+<ul>
+<li>Setup user_microservice repo</li>
+<li>Implement User Get Endpoint in User CRUD Microservice</li>
+<li>Schemas and Models of User Database</li>
+<li>Implement User Registration Endpoint in User CRUD Microservice</li>
+<li>Setup postgreSQL User Database</li>
+<li>Setup web_ui repository</li>
+<li>Create registration page</li>
+<li>Update LaTeX Report</li>
+<li>Create login page</li>
+<li>Create Front page</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>10</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>39</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%203#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Task (Trail-*)</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>Trail-16</td><td>Setup user_microservice repo</td><td>Bernardo Figueiredo</td><td>Done</td><td>3</td></tr><tr><td>Trail-27</td><td>Implement User Get Endpoint in User CRUD Microservice</td><td>Duarte Cruz</td><td>Done</td><td>2</td></tr><tr><td>Trail-26</td><td>Schemas and Models of User Database</td><td>Alexandre Cotorobai</td><td>Done</td><td>2</td></tr><tr><td>Trail-17</td><td>Implement User Registration Endpoint in User CRUD Microservice</td><td>André Oliveira</td><td>Done</td><td>2</td></tr><tr><td>Trail-19</td><td>Setup postgreSQL User Database</td><td>Alexandre Cotorobai</td><td>Done</td><td>2</td></tr><tr><td>Trail-21</td><td>Setup web_ui repository</td><td>Bernardo Figueiredo</td><td>Done</td><td>3</td></tr><tr><td>Trail-22</td><td>Create registration page</td><td>Bernardo Figueiredo</td><td>Done</td><td>6</td></tr><tr><td>Trail-23</td><td>Update LaTeX Report</td><td>Bernardo Figueiredo</td><td>Done</td><td>1</td></tr><tr><td>Trail-24</td><td>Create login page</td><td>Hugo Correia</td><td>Done</td><td>6</td></tr><tr><td>Trail-25</td><td>Create Front page</td><td>Hugo Correia</td><td>Done</td><td>12</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%203#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-16: Setup user_microservice repo</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-27: Implement User Get Endpoint in User CRUD Microservice</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-26: Schemas and Models of User Database</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-17: Implement User Registration Endpoint in User CRUD Microservice</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-19: Setup postgreSQL User Database</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-21: Setup web_ui repository</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-22: Create registration page</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-23: Update LaTeX Report</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-24: Create login page</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Trail-25: Create Front page</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%203#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>9</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>27</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-restrospective">Sprint Restrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%203#sprint-restrospective" class="hash-link" aria-label="Direct link to Sprint Restrospective" title="Direct link to Sprint Restrospective">​</a></h2>
+<p>In this sprint, we managed to complete all the tasks that were planned, except for an additional task that was added at the last minute and was not part of the goals of this sprint. The team worked well together and managed to finish the sprint goals on time.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%203#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://pi-trailblazer.github.io/microsite/assets/images/burndown_chart_sprint_3-70c6a2cc1091d49661532621ab68cadb.png" width="1647" height="618" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Joaquim Rosa</name>
+            <uri>https://github.com/JakeRosa</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sprint 2]]></title>
         <id>https://pi-trailblazer.github.io/microsite/blog/Sprint 2</id>
         <link href="https://pi-trailblazer.github.io/microsite/blog/Sprint 2"/>
         <updated>2024-03-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From: 2024-03-02]]></summary>
-        <content type="html"><![CDATA[<p><strong>From</strong>: 2024-03-02</p>
-<p><strong>To</strong>: 2024-03-05</p>
+        <summary type="html"><![CDATA[From: 2024-03-05]]></summary>
+        <content type="html"><![CDATA[<p><strong>From</strong>: 2024-03-05</p>
+<p><strong>To</strong>: 2024-03-12</p>
 <p><strong>Scrum Master</strong>: André Oliveira</p>
 <p><strong>Product Owner</strong>: Alexandre Cotorobai</p>
 <p><strong>Developers</strong>: Joaquim Rosa, Duarte Cruz, Hugo Correia, Bernardo Figueiredo</p>
