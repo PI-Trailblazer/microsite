@@ -1,7 +1,7 @@
 ---
 slug: Sprint 3
 title: Sprint 3
-authors: [hugo]
+authors: [jake]
 ---
 
 # Sprint 3
