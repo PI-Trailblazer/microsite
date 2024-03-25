@@ -6,9 +6,9 @@ authors: [hugo]
 
 # Sprint 2
 
-**From**: 2024-03-02
+**From**: 2024-03-05
 
-**To**: 2024-03-05
+**To**: 2024-03-12
 
 **Scrum Master**: André Oliveira
 
@@ -34,13 +34,13 @@ In this sprint, we aimed to finish all the tags that were not possible to comple
 
 ## Sprint Backlog
 
-| Task (Trail-\*) | Description                 | Developer                                      | State       | Story Points |
-| --------------- | --------------------------- | ---------------------------------------------- | ----------- | ------------ |
-| Trail-8         | UI Mockups                  | Bernardo Figueiredo, Hugo Correia, Joaquim Rosa | Done        | 5            |
-| Trail-11        | Update Documentation        | Hugo Correia                                   | Done        | 5            |
-| Trail-12        | LateX Report Repo Creation  | Bernardo Figueiredo                                    | Done        | 3            |
-| Trail-13        | Use Cases Preparation       | Hugo Correia                                    | Done        | 3            |
-| Trail-14        | Presentation Preparation    | All team                                    | Done        | 5            |
+| Task (Trail-\*) | Description                | Developer                                       | State | Story Points |
+| --------------- | -------------------------- | ----------------------------------------------- | ----- | ------------ |
+| Trail-8         | UI Mockups                 | Bernardo Figueiredo, Hugo Correia, Joaquim Rosa | Done  | 5            |
+| Trail-11        | Update Documentation       | Hugo Correia                                    | Done  | 5            |
+| Trail-12        | LateX Report Repo Creation | Bernardo Figueiredo                             | Done  | 3            |
+| Trail-13        | Use Cases Preparation      | Hugo Correia                                    | Done  | 3            |
+| Trail-14        | Presentation Preparation   | All team                                        | Done  | 5            |
 
 ### Task Status (Completed/Not Completed)
 
@@ -52,7 +52,7 @@ In this sprint, we aimed to finish all the tags that were not possible to comple
 
 ## Sprint Review
 
-| Concluded     | Quantity |
+| Concluded    | Quantity |
 | ------------ | -------- |
 | Tasks        | 5        |
 | Epics        | 1        |
