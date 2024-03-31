@@ -58,11 +58,10 @@ In this sprint, we aimed to finish all the tags that were not possible to comple
 | Epics        | 1        |
 | Story Points | 21       |
 
-## Sprint Restrospective
+## Sprint Retrospective
 
 In this sprint, we managed to complete all the tasks that were planned. The team worked well together and managed to finish the sprint goals on time. The presentation was prepared and the documentation was updated. The LateX report repository was created and the use cases were prepared. The UI mockups were also completed.
 
 ## Sprint Burnup Chart
 
 ![Burndown Chart](../../static/img/sprints/burndown_chart_sprint_2.png)
-
