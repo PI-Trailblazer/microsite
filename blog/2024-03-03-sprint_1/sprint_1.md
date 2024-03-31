@@ -16,7 +16,7 @@ authors: [hugo]
 
 **Developers**: Alexandre Cotorobai, Bernardo Figueiredo, Joaquim Rosa, André Oliveira
 
-## Sprint Planning
+## Sprint Goal
 
 In order to complete the second milestone of our project, it is expectable to conclude the following sprints goals:
 
