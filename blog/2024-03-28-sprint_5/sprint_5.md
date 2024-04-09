@@ -18,88 +18,85 @@ authors: [andre]
 
 ## Sprint Goal
 
-In this sprint, we continued with the implementation of our project code, taking into account the personalized recommendation and all processes related to the offers:
+In this sprint, we continued with the implementation of our project code, taking into account the feedback received from the previous sprint. We focused on the implementation of the offer_microservice and recommender_microservice, as well as the integration of the RabbitMQ message queue system. We also worked on the frontend, creating the front page and the navbar, and updating the login and register pages. We also worked on the implementation of the offer list and offer details pages.
 
-- Create Front page
-- Setup recommender_microservice repo
-- fix endpoint get user recommendations
-- Create endpoint in Recommender Microservice to get the most popular offers
-- Setup offer_microservice repo
-- Beautify Login and Register Pages
-- Create NavBar
-- Schemas and Models of Offer Database
-- Elasticsearch compose configuration
-- Update Documentation Sprint 3
-- Refactor Compose and Dockerfiles
-- Add Skeleton Effect to Pages
-- Fix User Register
-- Create endpoint in Recommender Microservice to get the user recommendation
-- Setup rabbitMQ
 - Authentication - Clean Code
-- Implement Offer GET/PUT Endpoints in Offer CRUD Microservice
 - Function to receive new offers on recommender by rabbitMQ
+- Implement Offer GET/PUT Endpoints in Offer CRUD Microservice
+- Create suplementary CRUDs and Offer Endpoints
+- Update Sprint4 Microsite
+- Create Queue in RabbitMQ to add new offers to elastic search and add them
+- Update relevance score in ES recommender when a offer is bought
+- Create List of Offers Page
+- Add RabbitMQ Messaging in Offer Creation
+- Little Visual Update on Login/Registers Page
+- Fix Microservice dockerfiles
+- Update APIs to use cors
+- Create Offer Details Page
+- Add Offer List Endpoints
+- Implement message queue to delete offers on recommender
+- Add Offer Details Endpoints
+- Add Front Page Endpoints
 
 | Expected     | Quantity |
 | ------------ | -------- |
-| Tasks        | 18       |
+| Tasks        | 17       |
 | Epics        | 1        |
-| Story Points | 50       |
+| Story Points | 51       |
 
 ## Sprint Backlog
 
-| Task (Trail-\*) | Description                                                                 | Developer           | State    | Story Points |
-| --------------- | --------------------------------------------------------------------------- | ------------------- | -------- | ------------ |
-| TRAIL-25        | Create Front page                                                           | Hugo Correia        | Done     | 12           |
-| TRAIL-28        | Setup recommender_microservice repo                                         | Alexandre Cotorobai | Done     | 1            |
-| Trail-29        | Setup offer_microservice repo                                               | Joaquim Rosa        | Done     | 1            |
-| Trail-30        | Schemas and Models of Offer Database                                        | Alexandre Cotorobai | Done     | 3            |
-| Trail-31        | Elasticsearch compose configuration                                         | Joaquim Rosa        | Done     | 1            |
-| Trail-33        | Create NavBar                                                               | Hugo Correia        | Done     | 2            |
-| Trail-34        | Beautify Login and Register Pages                                           | Hugo Correia        | Done     | 5            |
-| Trail-35        | Update Documentation Sprint 3                                               | Joaquim Rosa        | Done     | 1            |
-| Trail-36        | Refactor Compose and Dockerfiles                                            | Bernardo Figueiredo | Done     | 1            |
-| Trail-38        | Add Skeleton Effect to Pages                                                | Hugo Correia        | Done     | 3            |
-| Trail-39        | Fix User Register                                                           | André Oliveira      | Done     | 1            |
-| Trail-40        | CCreate endpoint in Recommender Microservice to get the most popular offers | André Oliveira      | Done     | 3            |
-| Trail-41        | Create endpoint in Recommender Microservice to get the user recommendation  | Duarte Cruz         | Done     | 3            |
-| Trail-42        | Setup rabbitMQ                                                              | André Oliveira      | Done     | 1            |
-| Trail-43        | fix endpoint get user recommendations                                       | André Oliveira      | Done     | 1            |
-| Trail-44        | Function to receive new offers on recommender by rabbitMQ                   | André Oliveira      | Not Done | 3            |
-| Trail-32        | Authentication - Clean Code                                                 | Bernardo Figueiredo | Not Done | 4            |
-| Trail-37        | Implement Offer GET/PUT Endpoints in Offer CRUD Microservice                | Joaquim Rosa        | Not Done | 3            |
+| Task (Trail-\*) | Description                                                               | Developer           | State    | Story Points |
+| --------------- | ------------------------------------------------------------------------- | ------------------- | -------- | ------------ |
+| TRAIL-32        | Authentication - Clean Code                                               | Bernardo Figueiredo | Done     | 4            |
+| Trail-44        | Function to receive new offers on recommender by rabbitMQ                 | André Oliveira      | Done     | 3            |
+| TRAIL-37        | Implement Offer GET/PUT Endpoints in Offer CRUD Microservice              | Joaquim Rosa        | Done     | 3            |
+| Trail-45        | Create suplementary CRUDs and Offer Endpoints                             | Alexandre Cotorobai | Done     | 5            |
+| Trail-46        | Update Sprint4 Microsite                                                  | André Oliveira      | Done     | 1            |
+| Trail-47        | Create Queue in RabbitMQ to add new offers to elastic search and add them | Duarte Cruz         | Done     | 1            |
+| Trail-48        | Update relevance score in ES recommender when a offer is bought           | Duarte Cruz         | Done     | 1            |
+| Trail-49        | Create List of Offers Page                                                | Hugo Correia        | Done     | 7            |
+| Trail-51        | Add RabbitMQ Messaging in Offer Creation                                  | Joaquim Rosa        | Done     | 1            |
+| Trail-52        | Little Visual Update on Login/Registers Page                              | Hugo Correia        | Done     | 1            |
+| Trail-53        | Fix Microservice dockerfiles                                              | Bernardo Figueiredo | Done     | 2            |
+| Trail-54        | Update APIs to use cors                                                   | Bernardo Figueiredo | Done     | 1            |
+| Trail-55        | Create Offer Details Page                                                 | Hugo Correia        | Done     | 7            |
+| Trail-56        | Add Offer List Endpoints                                                  | Hugo Correia        | Done     | 3            |
+| Trail-58        | Implement message queue to delete offers on recommender                   | Duarte Cruz         | Done     | 1            |
+| Trail-57        | Add Offer Details Endpoints                                               | Hugo Correia        | Not Done | 2            |
+| Trail-50        | Add Front Page Endpoints                                                  | Hugo Correia        | Not Done | 3            |
 
 ### Task Status (Completed/Not Completed)
 
-- [x] TRAIL-25 Create Front page
-- [x] TRAIL-28 Setup recommender_microservice repo
-- [x] TRAIL-29 Setup offer_microservice repo
-- [x] TRAIL-30 Schemas and Models of Offer Database
-- [x] TRAIL-31 Elasticsearch compose configuration
-- [x] TRAIL-33 Create NavBar
-- [x] TRAIL-34 Beautify Login and Register Pages
-- [x] TRAIL-35 Update Documentation Sprint 3
-- [x] TRAIL-36 Refactor Compose and Dockerfiles
-- [x] TRAIL-38 Add Skeleton Effect to Pages
-- [x] TRAIL-39 Fix User Register
-- [x] TRAIL-40 Create endpoint in Recommender Microservice to get the most popular offers
-- [x] TRAIL-41 Create endpoint in Recommender Microservice to get the user recommendation
-- [x] TRAIL-42 Setup rabbitMQ
-- [x] TRAIL-43 fix endpoint get user recommendations
-- [ ] TRAIL-44 Function to receive new offers on recommender by rabbitMQ
-- [ ] TRAIL-32 Authentication - Clean Code
-- [ ] TRAIL-37 Implement Offer GET/PUT Endpoints in Offer CRUD Microservice
+- [x] TRAIL-32 Authentication - Clean Code
+- [x] TRAIL-44 Function to receive new offers on recommender by rabbitMQ
+- [x] TRAIL-37 Implement Offer GET/PUT Endpoints in Offer CRUD Microservice
+- [x] TRAIL-45 Create suplementary CRUDs and Offer Endpoints
+- [x] TRAIL-46 Update Sprint4 Microsite
+- [x] TRAIL-47 Create Queue in RabbitMQ to add new offers to elastic search and add them
+- [x] TRAIL-48 Update relevance score in ES recommender when a offer is bought
+- [x] TRAIL-49 Create List of Offers Page
+- [x] TRAIL-51 Add RabbitMQ Messaging in Offer Creation
+- [x] TRAIL-52 Little Visual Update on Login/Registers Page
+- [x] TRAIL-53 Fix Microservice dockerfiles
+- [x] TRAIL-54 Update APIs to use cors
+- [x] TRAIL-55 Create Offer Details Page
+- [x] TRAIL-56 Add Offer List Endpoints
+- [x] TRAIL-58 Implement message queue to delete offers on recommender
+- [ ] TRAIL-57 Add Offer Details Endpoints
+- [ ] TRAIL-50 Add Front Page Endpoints
 
 ## Sprint Review
 
 | Expected     | Quantity |
 | ------------ | -------- |
-| Tasks        | 18       |
+| Tasks        | 17       |
 | Epics        | 1        |
-| Story Points | 39       |
+| Story Points | 46       |
 
 ## Sprint Retrospective
 
-In this sprint, we successfully completed the tasks we had planned, achieving our set objectives. Additionally, we were able to initiate the implementation of a message queue system, marking significant progress towards our project goals. This successful sprint underscores our team's efficiency and dedication, positioning us well for future milestones.
+In this sprint, we managed to complete 15 out of 17 tasks, which is a good result. We managed to complete the implementation of the offer_microservice and recommender_microservice, as well as the integration of the RabbitMQ message queue system. We have completed all the tasks that was planned for this sprint, except for two additional tasks that were added and were not part of the goals of this sprint.
 
 ## Sprint Burnup Chart
 

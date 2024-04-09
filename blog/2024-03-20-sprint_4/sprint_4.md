@@ -47,26 +47,26 @@ In this sprint, we continued with the implementation of our project code, taking
 
 ## Sprint Backlog
 
-| Task (Trail-\*) | Description                                                                 | Developer           | State    | Story Points |
-| --------------- | --------------------------------------------------------------------------- | ------------------- | -------- | ------------ |
-| TRAIL-25        | Create Front page                                                           | Hugo Correia        | Done     | 12           |
-| TRAIL-28        | Setup recommender_microservice repo                                         | Alexandre Cotorobai | Done     | 1            |
-| Trail-29        | Setup offer_microservice repo                                               | Joaquim Rosa        | Done     | 1            |
-| Trail-30        | Schemas and Models of Offer Database                                        | Alexandre Cotorobai | Done     | 3            |
-| Trail-31        | Elasticsearch compose configuration                                         | Joaquim Rosa        | Done     | 1            |
-| Trail-33        | Create NavBar                                                               | Hugo Correia        | Done     | 2            |
-| Trail-34        | Beautify Login and Register Pages                                           | Hugo Correia        | Done     | 5            |
-| Trail-35        | Update Documentation Sprint 3                                               | Joaquim Rosa        | Done     | 1            |
-| Trail-36        | Refactor Compose and Dockerfiles                                            | Bernardo Figueiredo | Done     | 1            |
-| Trail-38        | Add Skeleton Effect to Pages                                                | Hugo Correia        | Done     | 3            |
-| Trail-39        | Fix User Register                                                           | André Oliveira      | Done     | 1            |
-| Trail-40        | CCreate endpoint in Recommender Microservice to get the most popular offers | André Oliveira      | Done     | 3            |
-| Trail-41        | Create endpoint in Recommender Microservice to get the user recommendation  | Duarte Cruz         | Done     | 3            |
-| Trail-42        | Setup rabbitMQ                                                              | André Oliveira      | Done     | 1            |
-| Trail-43        | fix endpoint get user recommendations                                       | André Oliveira      | Done     | 1            |
-| Trail-44        | Function to receive new offers on recommender by rabbitMQ                   | André Oliveira      | Not Done | 3            |
-| Trail-32        | Authentication - Clean Code                                                 | Bernardo Figueiredo | Not Done | 4            |
-| Trail-37        | Implement Offer GET/PUT Endpoints in Offer CRUD Microservice                | Joaquim Rosa        | Not Done | 3            |
+| Task (Trail-\*) | Description                                                                | Developer           | State    | Story Points |
+| --------------- | -------------------------------------------------------------------------- | ------------------- | -------- | ------------ |
+| TRAIL-25        | Create Front page                                                          | Hugo Correia        | Done     | 12           |
+| TRAIL-28        | Setup recommender_microservice repo                                        | Alexandre Cotorobai | Done     | 1            |
+| Trail-29        | Setup offer_microservice repo                                              | Joaquim Rosa        | Done     | 1            |
+| Trail-30        | Schemas and Models of Offer Database                                       | Alexandre Cotorobai | Done     | 3            |
+| Trail-31        | Elasticsearch compose configuration                                        | Joaquim Rosa        | Done     | 1            |
+| Trail-33        | Create NavBar                                                              | Hugo Correia        | Done     | 2            |
+| Trail-34        | Beautify Login and Register Pages                                          | Hugo Correia        | Done     | 5            |
+| Trail-35        | Update Documentation Sprint 3                                              | Joaquim Rosa        | Done     | 1            |
+| Trail-36        | Refactor Compose and Dockerfiles                                           | Bernardo Figueiredo | Done     | 1            |
+| Trail-38        | Add Skeleton Effect to Pages                                               | Hugo Correia        | Done     | 3            |
+| Trail-39        | Fix User Register                                                          | André Oliveira      | Done     | 1            |
+| Trail-40        | Create endpoint in Recommender Microservice to get the most popular offers | André Oliveira      | Done     | 3            |
+| Trail-41        | Create endpoint in Recommender Microservice to get the user recommendation | Duarte Cruz         | Done     | 3            |
+| Trail-42        | Setup rabbitMQ                                                             | André Oliveira      | Done     | 1            |
+| Trail-43        | fix endpoint get user recommendations                                      | André Oliveira      | Done     | 1            |
+| Trail-44        | Function to receive new offers on recommender by rabbitMQ                  | André Oliveira      | Not Done | 3            |
+| Trail-32        | Authentication - Clean Code                                                | Bernardo Figueiredo | Not Done | 4            |
+| Trail-37        | Implement Offer GET/PUT Endpoints in Offer CRUD Microservice               | Joaquim Rosa        | Not Done | 3            |
 
 ### Task Status (Completed/Not Completed)
 
