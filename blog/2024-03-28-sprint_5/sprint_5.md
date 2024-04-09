@@ -100,4 +100,4 @@ In this sprint, we managed to complete 15 out of 17 tasks, which is a good resul
 
 ## Sprint Burnup Chart
 
-![Burndown Chart](../../static/img/sprints/burndown_chart_sprint_4.png)
+![Burndown Chart](../../static/img/sprints/burndown_chart_sprint_5.png)
