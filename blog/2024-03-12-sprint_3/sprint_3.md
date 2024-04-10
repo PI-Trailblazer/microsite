@@ -67,7 +67,7 @@ In this sprint, we started coding implementation of our project, beginning with 
 
 ## Sprint Review
 
-| Expected     | Quantity |
+| Completed    | Quantity |
 | ------------ | -------- |
 | Tasks        | 9        |
 | Epics        | 1        |
