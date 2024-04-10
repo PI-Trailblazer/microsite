@@ -91,9 +91,9 @@ In this sprint, we continued with the implementation of our project code, taking
 
 ## Sprint Review
 
-| Expected     | Quantity |
+| Completed    | Quantity |
 | ------------ | -------- |
-| Tasks        | 18       |
+| Tasks        | 15       |
 | Epics        | 1        |
 | Story Points | 39       |
 
