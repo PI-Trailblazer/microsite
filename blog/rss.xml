@@ -4,10 +4,46 @@
         <title>Trailblazer Blog</title>
         <link>https://pi-trailblazer.github.io/microsite/blog</link>
         <description>Trailblazer Blog</description>
-        <lastBuildDate>Thu, 28 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Sprint 6]]></title>
+            <link>https://pi-trailblazer.github.io/microsite/blog/Sprint 6</link>
+            <guid>https://pi-trailblazer.github.io/microsite/blog/Sprint 6</guid>
+            <pubDate>Sat, 06 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[From: 2024-04-06]]></description>
+            <content:encoded><![CDATA[<p><strong>From</strong>: 2024-04-06</p>
+<p><strong>To</strong>: 2024-04-09</p>
+<p><strong>Scrum Master</strong>: Joaquim Rosa</p>
+<p><strong>Product Owner</strong>: André Oliveira</p>
+<p><strong>Developers</strong>: Bernardo Figueiredo, Hugo Correia, Alexandre Cotorobai, Duarte Cruz</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%206#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>The goal of this sprint is to implement the tagging of the offers in the offer microservice, given the offer description. Additionally, we will add the endpoints for the front page and offer details in the offer microservice.</p>
+<ul>
+<li>TRAIL-50 Add Front Page Endpoints</li>
+<li>TRAIL-57 Add Offer Details Endpoints</li>
+<li>TRAIL-60 Implement tagging in offer microservice given the offer description</li>
+<li>TRAIL-61 Update sprint 5 documentation</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>4</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>11</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%206#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Task (Trail-*)</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>Trail-60</td><td>Implement tagging in offer microservice given the offer description</td><td>Duarte Cruz</td><td>Done</td><td>5</td></tr><tr><td>Trail-61</td><td>Update sprint 5 documentation</td><td>André Oliveira</td><td>Done</td><td>1</td></tr><tr><td>Trail-57</td><td>Add Offer Details Endpoints</td><td>Hugo Correia</td><td>Not Done</td><td>2</td></tr><tr><td>Trail-50</td><td>Add Front Page Endpoints</td><td>Hugo Correia</td><td>Not Done</td><td>3</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%206#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-60 Implement tagging in offer microservice given the offer description</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-61 Update sprint 5 documentation</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->TRAIL-57 Add Offer Details Endpoints</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->TRAIL-50 Add Front Page Endpoints</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%206#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Completed</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>2</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>6</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%206#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>In this sprint, we were able to complete 2 tasks, which were the implementation of tagging in the offer microservice given the offer description and the update of the sprint 5 documentation. We were not able to complete the tasks of adding the offer details and front page endpoints. We will try to improve our estimations for the next sprint.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%206#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://pi-trailblazer.github.io/microsite/assets/images/burndown_chart_sprint_6-565a41c87b2964363a16d469ace9ca65.png" width="2220" height="1124" class="img_ev3q"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Sprint 5]]></title>
             <link>https://pi-trailblazer.github.io/microsite/blog/Sprint 5</link>
@@ -64,7 +100,7 @@
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->TRAIL-50 Add Front Page Endpoints</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%205#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
-<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>17</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>46</td></tr></tbody></table>
+<table><thead><tr><th>Completed</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>15</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>46</td></tr></tbody></table>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%205#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
 <p>In this sprint, we managed to complete 15 out of 17 tasks, which is a good result. We managed to complete the implementation of the offer_microservice and recommender_microservice, as well as the integration of the RabbitMQ message queue system. We have completed all the tasks that was planned for this sprint, except for two additional tasks that were added and were not part of the goals of this sprint.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%205#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
@@ -128,7 +164,7 @@
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->TRAIL-37 Implement Offer GET/PUT Endpoints in Offer CRUD Microservice</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%204#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
-<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>18</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>39</td></tr></tbody></table>
+<table><thead><tr><th>Completed</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>15</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>39</td></tr></tbody></table>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%204#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
 <p>In this sprint, we successfully completed the tasks we had planned, achieving our set objectives. Additionally, we were able to initiate the implementation of a message queue system, marking significant progress towards our project goals. This successful sprint underscores our team's efficiency and dedication, positioning us well for future milestones.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%204#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
@@ -176,7 +212,7 @@
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Trail-25: Create Front page</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%203#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
-<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>9</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>39</td></tr></tbody></table>
+<table><thead><tr><th>Completed</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>9</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>39</td></tr></tbody></table>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%203#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
 <p>In this sprint, we managed to complete all the tasks that were planned, except for an additional task that was added at the last minute and was not part of the goals of this sprint. The team worked well together and managed to finish the sprint goals on time.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%203#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
