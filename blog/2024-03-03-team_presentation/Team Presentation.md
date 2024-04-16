@@ -18,3 +18,4 @@ The distribution made is listed below:
 | 4      | Alexandre Cotorobai | Hugo Correia        | André Oliveira, Joaquim Rosa, Bernardo Figueiredo, Duarte Cruz         |
 | 5      | Duarte Cruz         | Bernardo Figueiredo | Alexandre Cotorobai, Hugo Correia, André Oliveira, Joaquim Rosa        |
 | 6      | Joaquim Rosa        | André Oliveira      | Bernardo Figueiredo, Hugo Correia, Alexandre Cotorobai, Duarte Cruz    |
+| 7      | André Oliveira      | Bernardo Figueiredo | Joaquim Rosa, Hugo Correia, Alexandre Cotorobai, Duarte Cruz           |
