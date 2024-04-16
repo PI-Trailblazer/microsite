@@ -2,11 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pi-trailblazer.github.io/microsite/blog</id>
     <title>Trailblazer Blog</title>
-    <updated>2024-04-06T00:00:00.000Z</updated>
+    <updated>2024-04-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pi-trailblazer.github.io/microsite/blog"/>
     <subtitle>Trailblazer Blog</subtitle>
     <icon>https://pi-trailblazer.github.io/microsite/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sprint 7]]></title>
+        <id>https://pi-trailblazer.github.io/microsite/blog/Sprint 7</id>
+        <link href="https://pi-trailblazer.github.io/microsite/blog/Sprint 7"/>
+        <updated>2024-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From: 2024-04-10]]></summary>
+        <content type="html"><![CDATA[<p><strong>From</strong>: 2024-04-10</p>
+<p><strong>To</strong>: 2024-04-16</p>
+<p><strong>Scrum Master</strong>: André Oliveira</p>
+<p><strong>Product Owner</strong>: Bernardo Figueiredo</p>
+<p><strong>Developers</strong>: Joaquim Rosa, Hugo Correia, Alexandre Cotorobai, Duarte Cruz</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%207#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>The goal of this sprint is to implement machine learning models for auto-tagging reviews and work on the frontend.</p>
+<ul>
+<li>TRAIL-50 Add Front Page Endpoints</li>
+<li>TRAIL-57 Add Offer Details Endpoints</li>
+<li>TRAIL-62 Update sprint 6 documentation</li>
+<li>TRAIL-63 Auto offers rating implementation</li>
+<li>TRAIL-64 Fix to return offer id on a offer GET</li>
+<li>TRAIL-65 Fix auto-tagging</li>
+<li>TRAIL-66 Hot Fixes</li>
+<li>TRAIL-67 Schemas refactor</li>
+<li>TRAIL-68 Add Your Offer Page</li>
+<li>TRAIL-69 Update Navbar Depending on User</li>
+<li>TRAIL-70 Add Recommendations Assessment Component</li>
+<li>TRAIL-71 Add Create and Delete Offer Endpoints</li>
+<li>TRAIL-73 Fix connection between offer and recommender to insert new offers in ES</li>
+<li>TRAIL-76 FIX - ML connection refactor</li>
+<li>TRAIL-77 Create calendar in microsite</li>
+<li>TRAIL-78 Clean poetry lock of offer service</li>
+<li>TRAIL-79 FIX - Get Offers by User Endpoint</li>
+<li>TRAIL-81 Add Create Review and Delete Review Endpoints</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>18</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>36</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%207#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Task (Trail-*)</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>Trail-50</td><td>Add Front Page Endpoints</td><td>Bernardo Figueiredo</td><td>Done</td><td>3</td></tr><tr><td>Trail-57</td><td>Add Offer Details Endpoints</td><td>Hugo Correia</td><td>Done</td><td>4</td></tr><tr><td>Trail-62</td><td>Update sprint 6 documentation</td><td>André Oliveira</td><td>Done</td><td>1</td></tr><tr><td>Trail-63</td><td>Auto offers rating implementation</td><td>André Oliveira</td><td>Done</td><td>3</td></tr><tr><td>Trail-64</td><td>Fix to return offer id on a offer GET</td><td>André Oliveira</td><td>Done</td><td>2</td></tr><tr><td>Trail-65</td><td>Fix auto-tagging</td><td>Duarte Cruz</td><td>Done</td><td>1</td></tr><tr><td>Trail-66</td><td>Hot Fixes</td><td>Alexandre Cotorobai</td><td>Done</td><td>4</td></tr><tr><td>Trail-67</td><td>Schemas refactor</td><td>Alexandre Cotorobai</td><td>Done</td><td>1</td></tr><tr><td>Trail-68</td><td>Add Your Offer Page</td><td>Hugo Correia</td><td>Done</td><td>4</td></tr><tr><td>Trail-69</td><td>Update Navbar Depending on User</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-70</td><td>Add Recommendations Assessment Component</td><td>Bernardo Figueiredo</td><td>Done</td><td>2</td></tr><tr><td>Trail-71</td><td>Add Create and Delete Offer Endpoints</td><td>Hugo Correia</td><td>Done</td><td>2</td></tr><tr><td>Trail-73</td><td>Fix connection between offer and recommender to insert new offers in ES</td><td>Duarte Cruz</td><td>Done</td><td>1</td></tr><tr><td>Trail-76</td><td>FIX - ML connection refactor</td><td>Alexandre Cotorobai</td><td>Done</td><td>1</td></tr><tr><td>Trail-77</td><td>Create calendar in microsite</td><td>Bernardo Figueiredo</td><td>Done</td><td>2</td></tr><tr><td>Trail-78</td><td>Clean poetry lock of offer service</td><td>Bernardo Figueiredo</td><td>Done</td><td>1</td></tr><tr><td>Trail-79</td><td>FIX - Get Offers by User Endpoint</td><td>Bernardo Figueiredo</td><td>Done</td><td>1</td></tr><tr><td>Trail-81</td><td>Add Create Review and Delete Review Endpoints</td><td>Hugo Correia</td><td>Done</td><td>2</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%207#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-50 Add Front Page Endpoints</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-57 Add Offer Details Endpoints</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-62 Update sprint 6 documentation</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-63 Auto offers rating implementation</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-64 Fix to return offer id on a offer GET</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-65 Fix auto-tagging</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-66 Hot Fixes</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-67 Schemas refactor</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-68 Add Your Offer Page</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-69 Update Navbar Depending on User</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-70 Add Recommendations Assessment Component</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-71 Add Create and Delete Offer Endpoints</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-73 Fix connection between offer and recommender to insert new offers in ES</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-76 FIX - ML connection refactor</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-77 Create calendar in microsite</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-78 Clean poetry lock of offer service</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-79 FIX - Get Offers by User Endpoint</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->TRAIL-81 Add Create Review and Delete Review Endpoints</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%207#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Completed</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>18</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>36</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%207#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>In this sprint we were able to complete all the tasks, which were the implementation of the endpoints for the front page and offer details in the offer microservice, the auto-tagging of the offers in the offer microservice, given the offer description, and the update of the sprint 6 documentation. We were also able to complete the hot fixes, schemas refactor, add your offer page, update navbar depending on user, add recommendations assessment component, add create and delete offer endpoints, fix connection between offer and recommender to insert new offers in ES, fix ML connection refactor, create calendar in microsite, clean poetry lock of offer service, fix get offers by user endpoint, and add create review and delete review endpoints. We were able to complete all the tasks in this sprint, which was a great achievement for the team.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%207#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://pi-trailblazer.github.io/microsite/assets/images/burndown_chart_sprint_7-74bfd08a357dc28956c056e26b07c808.png" width="2228" height="1136" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>André Oliveira</name>
+            <uri>https://github.com/andreaoliveira9</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sprint 6]]></title>
         <id>https://pi-trailblazer.github.io/microsite/blog/Sprint 6</id>
@@ -334,7 +402,7 @@
         <content type="html"><![CDATA[<hr>
 <p>During the development of our application we spread the work to be done by sprints. Each sprint had a duration of 1/2 weeks (except the first one) and at the end of each sprint we had a meeting to discuss the work done and the work to be done in the next sprint.</p>
 <p>The distribution made is listed below:</p>
-<table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead><tbody><tr><td>1</td><td>Hugo Correia</td><td>Duarte Cruz</td><td>Alexandre Cotorobai, Bernardo Figueiredo, Joaquim Rosa, André Oliveira</td></tr><tr><td>2</td><td>André Oliveira</td><td>Alexandre Cotorobai</td><td>Joaquim Rosa, Duarte Cruz, Hugo Correia, Bernardo Figueiredo</td></tr><tr><td>3</td><td>Bernardo Figueiredo</td><td>Joaquim Rosa</td><td>Alexandre Cotorobai, André Oliveira, Duarte Cruz, Hugo Correia</td></tr><tr><td>4</td><td>Alexandre Cotorobai</td><td>Hugo Correia</td><td>André Oliveira, Joaquim Rosa, Bernardo Figueiredo, Duarte Cruz</td></tr><tr><td>5</td><td>Duarte Cruz</td><td>Bernardo Figueiredo</td><td>Alexandre Cotorobai, Hugo Correia, André Oliveira, Joaquim Rosa</td></tr><tr><td>6</td><td>Joaquim Rosa</td><td>André Oliveira</td><td>Bernardo Figueiredo, Hugo Correia, Alexandre Cotorobai, Duarte Cruz</td></tr></tbody></table>]]></content>
+<table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead><tbody><tr><td>1</td><td>Hugo Correia</td><td>Duarte Cruz</td><td>Alexandre Cotorobai, Bernardo Figueiredo, Joaquim Rosa, André Oliveira</td></tr><tr><td>2</td><td>André Oliveira</td><td>Alexandre Cotorobai</td><td>Joaquim Rosa, Duarte Cruz, Hugo Correia, Bernardo Figueiredo</td></tr><tr><td>3</td><td>Bernardo Figueiredo</td><td>Joaquim Rosa</td><td>Alexandre Cotorobai, André Oliveira, Duarte Cruz, Hugo Correia</td></tr><tr><td>4</td><td>Alexandre Cotorobai</td><td>Hugo Correia</td><td>André Oliveira, Joaquim Rosa, Bernardo Figueiredo, Duarte Cruz</td></tr><tr><td>5</td><td>Duarte Cruz</td><td>Bernardo Figueiredo</td><td>Alexandre Cotorobai, Hugo Correia, André Oliveira, Joaquim Rosa</td></tr><tr><td>6</td><td>Joaquim Rosa</td><td>André Oliveira</td><td>Bernardo Figueiredo, Hugo Correia, Alexandre Cotorobai, Duarte Cruz</td></tr><tr><td>7</td><td>André Oliveira</td><td>Bernardo Figueiredo</td><td>Joaquim Rosa, Hugo Correia, Alexandre Cotorobai, Duarte Cruz</td></tr></tbody></table>]]></content>
         <author>
             <name>Hugo Correia</name>
             <uri>https://github.com/MrLoydHD</uri>
