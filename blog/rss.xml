@@ -4,10 +4,242 @@
         <title>Trailblazer Blog</title>
         <link>https://pi-trailblazer.github.io/microsite/blog</link>
         <description>Trailblazer Blog</description>
-        <lastBuildDate>Wed, 10 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Sprint 11]]></title>
+            <link>https://pi-trailblazer.github.io/microsite/blog/Sprint 11</link>
+            <guid>https://pi-trailblazer.github.io/microsite/blog/Sprint 11</guid>
+            <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[From: 2024-05-28]]></description>
+            <content:encoded><![CDATA[<p><strong>From</strong>: 2024-05-28</p>
+<p><strong>To</strong>: 2024-06-04</p>
+<p><strong>Scrum Master</strong>: Duarte Cruz</p>
+<p><strong>Product Owner</strong>: André Oliveira</p>
+<p><strong>Developers</strong>: Joaquim Rosa, Hugo Correia, Alexandre Cotorobai, Bernardo Figueiredo</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2011#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>The goal of this sprint is to implement the remaining endpoints of the monitoring microservice on the frontend and adds the Transaction page.</p>
+<ul>
+<li>TRAIL-156 Implement All Provider Monitoring Endpoints</li>
+<li>TRAIL-157 Implement All DMOs Monitoring Endpoints</li>
+<li>TRAIL-163 Fix Protected and Provider Routes</li>
+<li>TRAIL-164 Add and Implement My Offer Transactions Page</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>4</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>11</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2011#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Task (Trail-*)</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>Trail-156</td><td>Implement All Provider Monitoring Endpoints</td><td>Hugo Correia</td><td>Done</td><td>3</td></tr><tr><td>Trail-157</td><td>Implement All DMOs Monitoring Endpoints</td><td>Hugo Correia</td><td>Done</td><td>3</td></tr><tr><td>Trail-163</td><td>Fix Protected and Provider Routes</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-164</td><td>Add and Implement My Offer Transactions Page</td><td>Hugo Correia</td><td>Done</td><td>4</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2011#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-156: Implement All Provider Monitoring Endpoints</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-157: Implement All DMOs Monitoring Endpoints</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-163: Fix Protected and Provider Routes</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-164: Add and Implement My Offer Transactions Page</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2011#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Completed</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>4</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>11</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2011#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>In this sprint, we managed to complete all the tasks, and finally finished the project. We are proud of the work we have done and the results we have achieved.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2011#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://pi-trailblazer.github.io/microsite/assets/images/burndown_chart_sprint_11-0c1f1c337e15c56549f87b0ba408749e.png" width="1621" height="553" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sprint 10]]></title>
+            <link>https://pi-trailblazer.github.io/microsite/blog/Sprint 10</link>
+            <guid>https://pi-trailblazer.github.io/microsite/blog/Sprint 10</guid>
+            <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[From: 2024-05-14]]></description>
+            <content:encoded><![CDATA[<p><strong>From</strong>: 2024-05-14</p>
+<p><strong>To</strong>: 2024-05-28</p>
+<p><strong>Scrum Master</strong>: Hugo Correia</p>
+<p><strong>Product Owner</strong>: Duarte Cruz</p>
+<p><strong>Developers</strong>: Bernardo Figueiredo, Joaquim Rosa, Alexandre Cotorobai, André Oliveira</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2010#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>The goal of this sprint is to implement the remaining features and fix any bugs that may arise. We will also work on the promotional video and demo to showcase the project.</p>
+<ul>
+<li>TRAIL-136 Fix Similar offers (Web)</li>
+<li>TRAIL-151 Message from payment to recommender</li>
+<li>TRAIL-162 Get endpoint to return payments by offerid</li>
+<li>TRAIL-135 Create monitor endpoints for provider</li>
+<li>TRAIL-88 Add put Endpoints to Reviews</li>
+<li>TRAIL-89 Add put Endpoint to Offer</li>
+<li>TRAIL-150 Normal Users cant access the sidebar</li>
+<li>TRAIL-132 Fix image upload (Web)</li>
+<li>TRAIL-147 Use google trends to return difference of tendencies to the predictor</li>
+<li>TRAIL-131 Add Get Endpoint to return similar offers</li>
+<li>TRAIL-113 Usability Tests Feedback Changes</li>
+<li>TRAIL-121 Update Recommender Endpoint to use right tags</li>
+<li>TRAIL-110 Fix Can't Delete offers with reviews</li>
+<li>TRAIL-123 Create User Update Endpoint</li>
+<li>TRAIL-124 Add Update Endpoint to User Account</li>
+<li>TRAIL-125 Refactor monitor endpoints</li>
+<li>TRAIL-126 Add payments to monitor's graphical analysis endpoint</li>
+<li>TRAIL-127 Add connection between monitor and payment with rabbit</li>
+<li>TRAIL-133 Add For you Endpoint to Landing Page</li>
+<li>TRAIL-134 Add endpoints for statistics cards</li>
+<li>TRAIL-148 Creation of fake data generator</li>
+<li>TRAIL-137 Add default image to offer Card</li>
+<li>TRAIL-138 Add Description and Doubts to Reccommendation Assessment</li>
+<li>TRAIL-139 Add all the Information needed to Monotoring Dashboard</li>
+<li>TRAIL-140 Handle "Can´t post more than one review"</li>
+<li>TRAIL-141 Handling if email already exist</li>
+<li>TRAIL-142 Comment input hover comments</li>
+<li>TRAIL-143 Remove own offer from the similar offers</li>
+<li>TRAIL-144 If logout in the landing page, refresh it</li>
+<li>TRAIL-145 Images Management Feedback</li>
+<li>TRAIL-146 Infinite Scrolling on All Offers Page</li>
+<li>TRAIL-149 Fix centralized Card when provider ony has one</li>
+<li>TRAIL-152 Fix Reviews Logo and wont appear comment Input if not logged</li>
+<li>TRAIL-153 Fix login page - error message when password is wrong</li>
+<li>TRAIL-154 Only can change the user information if the password is the right one</li>
+<li>TRAIL-155 Create Buy a Offer Endpoint</li>
+<li>TRAIL-158 Fix LandingPage BackGround Images</li>
+<li>TRAIL-159 Transition's History Page</li>
+<li>TRAIL-160 Promotional Video / Demo</li>
+<li>TRAIL-161 Add Predictor to DMO and Provider Graphical Analysis</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>40</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>88</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2010#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Task (Trail-*)</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>Trail-136</td><td>Fix Similar offers (Web)</td><td>Bernardo Figueiredo</td><td>Done</td><td>1</td></tr><tr><td>Trail-151</td><td>Message from payment to recommender</td><td>André Oliveira</td><td>Done</td><td>1</td></tr><tr><td>Trail-162</td><td>Get endpoint to return payments by offerid</td><td>André Oliveira</td><td>Done</td><td>2</td></tr><tr><td>Trail-135</td><td>Create monitor endpoints for provider</td><td>Joaquim Rosa</td><td>Done</td><td>3</td></tr><tr><td>Trail-88</td><td>Add put Endpoints to Reviews</td><td>Hugo Correia</td><td>Done</td><td>2</td></tr><tr><td>Trail-89</td><td>Add put Endpoint to Offer</td><td>Hugo Correia</td><td>Done</td><td>2</td></tr><tr><td>Trail-150</td><td>Normal Users cant access the sidebar</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-132</td><td>Fix image upload (Web)</td><td>Bernardo Figueiredo</td><td>Done</td><td>2</td></tr><tr><td>Trail-147</td><td>Use google trends to return difference of tendencies to the predictor</td><td>André Oliveira</td><td>Done</td><td>3</td></tr><tr><td>Trail-131</td><td>Add Get Endpoint to return similar offers</td><td>André Oliveira</td><td>Done</td><td>1</td></tr><tr><td>Trail-113</td><td>Usability Tests Feedback Changes</td><td>Hugo Correia</td><td>Done</td><td>10</td></tr><tr><td>Trail-121</td><td>Update Recommender Endpoint to use right tags</td><td>Bernardo Figueiredo</td><td>Done</td><td>1</td></tr><tr><td>Trail-110</td><td>Fix Can't Delete offers with reviews</td><td>Bernardo Figueiredo</td><td>Done</td><td>2</td></tr><tr><td>Trail-123</td><td>Create User Update Endpoint</td><td>Bernardo Figueiredo</td><td>Done</td><td>2</td></tr><tr><td>Trail-124</td><td>Add Update Endpoint to User Account</td><td>Hugo Correia</td><td>Done</td><td>3</td></tr><tr><td>Trail-125</td><td>Refactor monitor endpoints</td><td>Joaquim Rosa</td><td>Done</td><td>1</td></tr><tr><td>Trail-126</td><td>Add payments to monitor's graphical analysis endpoint</td><td>Joaquim Rosa</td><td>Done</td><td>5</td></tr><tr><td>Trail-127</td><td>Add connection between monitor and payment with rabbit</td><td>Duarte Cruz</td><td>Done</td><td>1</td></tr><tr><td>Trail-133</td><td>Add For you Endpoint to Landing Page</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-134</td><td>Add endpoints for statistics cards</td><td>Joaquim Rosa</td><td>Done</td><td>2</td></tr><tr><td>Trail-148</td><td>Creation of fake data generator</td><td>Bernardo Figueiredo</td><td>Done</td><td>1</td></tr><tr><td>Trail-137</td><td>Add default image to offer Card</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-138</td><td>Add Description and Doubts to Reccommendation Assessment</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-139</td><td>Add all the Information needed to Monotoring Dashboard</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-140</td><td>Handle "Can´t post more than one review"</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-141</td><td>Handling if email already exist</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-142</td><td>Comment input hover comments</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-143</td><td>Remove own offer from the similar offers</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-144</td><td>If logout in the landing page, refresh it</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-145</td><td>Images Management Feedback</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-146</td><td>Infinite Scrolling on All Offers Page</td><td>Hugo Correia</td><td>Done</td><td>2</td></tr><tr><td>Trail-149</td><td>Fix centralized Card when provider ony has one</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-152</td><td>Fix Reviews Logo and wont appear comment Input if not logged</td><td>Hugo Correia</td><td>Done</td><td>2</td></tr><tr><td>Trail-153</td><td>Fix login page - error message when password is wrong</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-154</td><td>Only can change the user information if the password is the right one</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-155</td><td>Create Buy a Offer Endpoint</td><td>Hugo Correia</td><td>Done</td><td>2</td></tr><tr><td>Trail-158</td><td>Fix LandingPage BackGround Images</td><td>Hugo Correia</td><td>Done</td><td>2</td></tr><tr><td>Trail-159</td><td>Transition's History Page</td><td>Hugo Correia</td><td>Done</td><td>3</td></tr><tr><td>Trail-160</td><td>Promotional Video / Demo</td><td>Alexandre Cotorobai</td><td>Done</td><td>12</td></tr><tr><td>Trail-161</td><td>Add Predictor to DMO and Provider Graphical Analysis</td><td>Joaquim Rosa</td><td>Done</td><td>6</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2010#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-136: Fix Similar offers (Web)</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-151: Message from payment to recommender</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-162: Get endpoint to return payments by offerid</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-135: Create monitor endpoints for provider</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-88: Add put Endpoints to Reviews</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-89: Add put Endpoint to Offer</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-150: Normal Users cant access the sidebar</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-132: Fix image upload (Web)</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-147: Use google trends to return difference of tendencies to the predictor</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-131: Add Get Endpoint to return similar offers</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-113: Usability Tests Feedback Changes</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-121: Update Recommender Endpoint to use right tags</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-110: Fix Can't Delete offers with reviews</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-123: Create User Update Endpoint</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-124: Add Update Endpoint to User Account</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-125: Refactor monitor endpoints</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-126: Add payments to monitor's graphical analysis endpoint</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-127: Add connection between monitor and payment with rabbit</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-133: Add For you Endpoint to Landing Page</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-134: Add endpoints for statistics cards</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-148: Creation of fake data generator</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-137: Add default image to offer Card</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-138: Add Description and Doubts to Reccommendation Assessment</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-139: Add all the Information needed to Monotoring Dashboard</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-140: Handle "Can´t post more than one review"</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-141: Handling if email already exist</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-142: Comment input hover comments</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-143: Remove own offer from the similar offers</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-144: If logout in the landing page, refresh it</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-145: Images Management Feedback</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-146: Infinite Scrolling on All Offers Page</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-149: Fix centralized Card when provider ony has one</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-152: Fix Reviews Logo and wont appear comment Input if not logged</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-153: Fix login page - error message when password is wrong</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-154: Only can change the user information if the password is the right one</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-155: Create Buy a Offer Endpoint</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-158: Fix LandingPage BackGround Images</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-159: Transition's History Page</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-160: Promotional Video / Demo</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-161: Add Predictor to DMO and Provider Graphical Analysis</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2010#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Completed</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>40</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>88</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2010#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>In this sprint, we had a lot of tasks to complete, but we managed to finish them all. The team worked well together and we were able to deliver all the features that were planned for this sprint. We also had a lot of fun working on the promotional video and demo, which turned out great. Overall, it was a successful sprint and we are looking forward to the next one.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%2010#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://pi-trailblazer.github.io/microsite/assets/images/burndown_chart_sprint_10-ffed0a54e2dc9b382e435e051094452e.png" width="1621" height="553" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sprint 9]]></title>
+            <link>https://pi-trailblazer.github.io/microsite/blog/Sprint 9</link>
+            <guid>https://pi-trailblazer.github.io/microsite/blog/Sprint 9</guid>
+            <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[From: 2024-05-07]]></description>
+            <content:encoded><![CDATA[<p><strong>From</strong>: 2024-05-07</p>
+<p><strong>To</strong>: 2024-05-14</p>
+<p><strong>Scrum Master</strong>: Alexandre Cotorobai</p>
+<p><strong>Product Owner</strong>: Joaquim Rosa</p>
+<p><strong>Developers</strong>: Duarte Cruz, Hugo Correia, Bernardo Figueiredo, André Oliveira</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%209#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>In this sprint, we started started the implementation of the payment and the monitoring microservices.</p>
+<ul>
+<li>Trail-87 Add workflows for QA to repos</li>
+<li>Trail-90 Setup MongoDB Database and Monitor Repository</li>
+<li>Trail-111 Offload Machine Learning models to another API</li>
+<li>Trail-100 RabbitMQ sending offers to datawarehouse</li>
+<li>Trail-101 Add RabbitMQ config to monitor_microservice and receive offers from offer_microservice</li>
+<li>Trail-103 Offer endpoints for monitor_microservice</li>
+<li>Trail-104 Setup payment in deployment</li>
+<li>Trail-106 Payment implementation</li>
+<li>Trail-107 Update Authorization in Offer endpoints</li>
+<li>Trail-92 Create Static version of Account Menu</li>
+<li>Trail-102 Small Design Changes</li>
+<li>Trail-91 Change Overall Color Pallete</li>
+<li>Trail-108 Fix create and update offer image and add delete</li>
+<li>Trail-109 Fix homepage null handling and add badge to offer selection</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>14</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>43</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%209#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Task (Trail-*)</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>Trail-87</td><td>Add workflows for QA to repos</td><td>Bernardo Figueiredo</td><td>Done</td><td>4</td></tr><tr><td>Trail-90</td><td>Setup MongoDB Database and Monitor Repository</td><td>Joaquim Rosa</td><td>Done</td><td>4</td></tr><tr><td>Trail-111</td><td>Offload Machine Learning models to another API</td><td>Bernardo Figueiredo</td><td>Done</td><td>2</td></tr><tr><td>Trail-100</td><td>RabbitMQ sending offers to datawarehouse</td><td>Alexandre Cotorobai</td><td>Done</td><td>1</td></tr><tr><td>Trail-101</td><td>Add RabbitMQ config to monitor_microservice and receive offers from offer_microservice</td><td>Joaquim Rosa</td><td>Done</td><td>1</td></tr><tr><td>Trail-103</td><td>Offer endpoints for monitor_microservice</td><td>Joaquim Rosa</td><td>Done</td><td>4</td></tr><tr><td>Trail-104</td><td>Setup payment in deployment</td><td>Duarte Cruz</td><td>Done</td><td>1</td></tr><tr><td>Trail-106</td><td>Payment implementation</td><td>Duarte Cruz</td><td>Done</td><td>6</td></tr><tr><td>Trail-107</td><td>Update Authorization in Offer endpoints</td><td>Bernardo Figueiredo</td><td>Done</td><td>2</td></tr><tr><td>Trail-92</td><td>Create Static version of Account Menu</td><td>Hugo Correia</td><td>Done</td><td>11</td></tr><tr><td>Trail-102</td><td>Small Design Changes</td><td>Hugo Correia</td><td>Done</td><td>1</td></tr><tr><td>Trail-91</td><td>Change Overall Color Pallete</td><td>Hugo Correia</td><td>Done</td><td>2</td></tr><tr><td>Trail-108</td><td>Fix create and update offer image and add delete</td><td>Joaquim Rosa</td><td>Done</td><td>3</td></tr><tr><td>Trail-109</td><td>Fix homepage null handling and add badge to offer selection</td><td>Bernardo Figueiredo</td><td>Done</td><td>1</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%209#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-87: Add workflows for QA to repos</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-90: Setup MongoDB Database and Monitor Repository</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-111: Offload Machine Learning models to another API</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-100: RabbitMQ sending offers to datawarehouse</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-101: Add RabbitMQ config to monitor_microservice and receive offers from offer_microservice</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-103: Offer endpoints for monitor_microservice</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-104: Setup payment in deployment</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-106: Payment implementation</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-107: Update Authorization in Offer endpoints</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-92: Create Static version of Account Menu</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-102: Small Design Changes</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-91: Change Overall Color Pallete</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-108: Fix create and update offer image and add delete</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-109: Fix homepage null handling and add badge to offer selection</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%209#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Completed</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>14</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>43</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%209#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>In this sprint, we managed to complete all the tasks we had planned. The team worked well together and we were able to deliver all the features we had planned. The team is working well together and we are looking forward to the next sprint.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%209#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://pi-trailblazer.github.io/microsite/assets/images/burndown_chart_sprint_9-10183c723c35fa435afef6012cbea055.png" width="1613" height="543" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sprint 8]]></title>
+            <link>https://pi-trailblazer.github.io/microsite/blog/Sprint 8</link>
+            <guid>https://pi-trailblazer.github.io/microsite/blog/Sprint 8</guid>
+            <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[From: 2024-04-16]]></description>
+            <content:encoded><![CDATA[<p><strong>From</strong>: 2024-04-16</p>
+<p><strong>To</strong>: 2024-04-23</p>
+<p><strong>Scrum Master</strong>: Bernardo Figueiredo</p>
+<p><strong>Product Owner</strong>: Joaquim Rosa</p>
+<p><strong>Developers</strong>: Duarte Cruz, Hugo Correia, Alexandre Cotorobai, André Oliveira</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%208#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>In this sprint, we just focused on updating the documentation and implementing custom token generation in the User Microservice.</p>
+<ul>
+<li>Trail-85 Update sprint 7 documentation</li>
+<li>Trail-86 Implement custom token generation in User Microservice</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>2</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>9</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%208#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Task (Trail-*)</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>Trail-85</td><td>Update sprint 7 documentation</td><td>André Oliveira</td><td>Done</td><td>1</td></tr><tr><td>Trail-86</td><td>Implement custom token generation in User Microservice</td><td>Bernardo Figueiredo</td><td>Done</td><td>8</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%208#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-85: Update sprint 7 documentation</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Trail-86: Implement custom token generation in User Microservice</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%208#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Completed</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>2</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>9</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%208#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>In this sprint, although we had a small number of tasks, the token generation implementation was a crucial feature for the project as a whole.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burnup-chart">Sprint Burnup Chart<a href="https://pi-trailblazer.github.io/microsite/blog/Sprint%208#sprint-burnup-chart" class="hash-link" aria-label="Direct link to Sprint Burnup Chart" title="Direct link to Sprint Burnup Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://pi-trailblazer.github.io/microsite/assets/images/burndown_chart_sprint_8-da83c3d82765fbe75be17bbec3361a86.png" width="1613" height="543" class="img_ev3q"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Sprint 7]]></title>
             <link>https://pi-trailblazer.github.io/microsite/blog/Sprint 7</link>
