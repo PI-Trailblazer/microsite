@@ -26,4 +26,6 @@ where d is one of the next 3 future points, **avgSlope** is the average slope an
 
 ## API Endpoints
 
-![Monitor API](../../../static/img/ms3Images/payment_api.png)
+![Monitor API](../../../static/img/ms3Images/monitor_api_1.png)
+
+![Monitor API](../../../static/img/ms3Images/monitor_api_2.png)
