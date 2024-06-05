@@ -14,7 +14,7 @@ In total, 12 participants took part in the user testing phase. Upon reviewing th
 
 The high percentage of participants who agreed with the model’s tags suggests a promising level of accuracy and alignment between the model’s predictions and the users’ expectations. However, the presence of dissenting opinions highlights the importance of ongoing refinement and optimization of the Auto-Tagging system to further enhance its accuracy and relevance.
 
-Overall, the user testing phase provided valuable insights into the performance of the Auto- Tagging system and served as a foundation for iterative improvements aimed at optimizing the tagging process and enhancing user satisfaction.
+Overall, the user testing phase provided valuable insights into the performance of the Auto-Tagging system and served as a foundation for iterative improvements aimed at optimizing the tagging process and enhancing user satisfaction.
 
 ![Usability Test for Auto-Tagging](../../../static/img/ms4Images/tagEvaluation.png)
 
@@ -24,17 +24,17 @@ To evaluate the efficacy of the sentiment analysis module, a similar user testin
 
 Participants were then tasked with reviewing the sentiment analysis results and indicating whether they concurred with the sentiment classifications assigned by the model. The goal was to ascertain the alignment between the sentiment analysis outcomes and the participants’ subjective interpretations of the sentiment expressed in the reviews.
 
-Out of the 12 participants who partook in the user testing phase, an overwhelming major- ity—91.7%—concurred with the sentiment classifications derived from the Vader Sentiment Analysis, results shown in the figure below This high level of agreement underscores the robustness and accuracy of the sentiment analysis module in capturing and accurately representing user sentiments expressed in the feedback.
+Out of the 12 participants who partook in the user testing phase, an overwhelming majority—91.7%—concurred with the sentiment classifications derived from the Vader Sentiment Analysis, results shown in the figure below This high level of agreement underscores the robustness and accuracy of the sentiment analysis module in capturing and accurately representing user sentiments expressed in the feedback.
 
-The positive reception of the sentiment analysis results affirms the efficacy of the Vader Sentiment Analysis tool in distilling actionable sentiment insights from user feedback, thereby empowering the system to proactively address user concerns and enhance overall user satis- faction levels.
+The positive reception of the sentiment analysis results affirms the efficacy of the Vader Sentiment Analysis tool in distilling actionable sentiment insights from user feedback, thereby empowering the system to proactively address user concerns and enhance overall user satisfaction levels.
 
 ![Usability Test for Sentiment Analysis](../../../static/img/ms4Images/sentimentAnalysisEvaluation.png)
 
 ## User Testing for Recommendation System
 
-Usability testing was conducted to evaluate the effectiveness and user satisfaction with the recommendation mechanism imple- mented in the platform. Participants were instructed to create an account and engage with the platform, exploring the recommended offers presented to them.
+Usability testing was conducted to evaluate the effectiveness and user satisfaction with the recommendation mechanism implemented in the platform. Participants were instructed to create an account and engage with the platform, exploring the recommended offers presented to them.
 
-During the usability testing phase, participants were asked to as- sess the suitability and relevance of the recommended offers presented to them. They were prompted to evaluate whether the offers aligned with their interests, preferences, and expec- tations.
+During the usability testing phase, participants were asked to assess the suitability and relevance of the recommended offers presented to them. They were prompted to evaluate whether the offers aligned with their interests, preferences, and expectations.
 
 ![Usability Tests for Recommender](../../../static/img/ms4Images/recommenderEvaluation.png)
 
@@ -44,7 +44,7 @@ After interacting with the platform and reviewing the recom- mended offers, part
 
 ## Results
 
-Out of the participants involved in the usability testing phase, an impressive 91.7% expressed satisfaction with the recommended offers presented to them. This high level of satisfaction underscores the effectiveness and accuracy of the recommendation mechanism in understanding and catering to the diverse preferences and interests of users. The results can be seen in Fig. 22.
+Out of the participants involved in the usability testing phase, an impressive 91.7% expressed satisfaction with the recommended offers presented to them. This high level of satisfaction underscores the effectiveness and accuracy of the recommendation mechanism in understanding and catering to the diverse preferences and interests of users.
 
 ## Implications
 
